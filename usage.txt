@@ -1,0 +1,24 @@
+Editing:
+1. Run /usr/local/bin/hugo server and navigate to http://localhost:1313/ to view an automatically-updated test page
+2. Add new publications/talks: 
+    /usr/local/bin/hugo new --kind talk talks/my-talk-name
+    /usr/local/bin/hugo new --kind publication publications/my-article-name
+    Modify content/talks/my-talk-name/index.md to show relevant information
+
+Other things in content/home/*.md (e.g. teaching, software)
+About info in content/authors/admin/_index.md
+Other useful settings in config/_default/*.toml
+
+https://sourcethemes.com/academic/docs/managing-content/#introduction
+
+Can add blog posts, etc.
+
+============================
+
+Deploy to Github:
+1. Push changes to academic-website
+2. Run /usr/local/bin/hugo
+3. cd into public (linked to lindonroberts.github.io page)
+4. Push changes to github.io page
+
+https://sourcethemes.com/academic/docs/deployment/#github-pages
