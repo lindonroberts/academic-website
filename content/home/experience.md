@@ -18,27 +18,31 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "MSI Fellow"
+  company = "Australian National University"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Canberra, AU"
+  date_start = "2019-09-16"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Independent researcher in the Computational Mathematics group of the Mathematical Sciences Institute.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Doctoral Student"
+  company = "University of Oxford"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Oxford, UK"
+  date_start = "2015-09-15"
+  date_end = "2019-08-31"
+  description = """Doctoral student in the Numerical Analysis group of the Mathematical Institute, under the supervision of [Coralia Cartis](https://www.maths.ox.ac.uk/people/coralia.cartis)."""
 
+[[experience]]
+  title = "Senior Analyst"
+  company = "Macquarie Group"
+  company_url = ""
+  location = "Sydney, AU"
+  date_start = "2012-02-01"
+  date_end = "2015-08-31"
+  description = """Worked in the Quantitative Applications Division of the Risk Management Group. Responsible for implementing risk management models (particularly for market risk) and reviewing pricing models."""
 +++
