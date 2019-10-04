@@ -6,3 +6,4 @@
 	path = public
 	url = git@github.com:lindonroberts/lindonroberts.github.io.git
 	branch = master
+	ignore = untracked
