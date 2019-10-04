@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Derivative-Free Optimisation Methods for Nonlinear Least-Squares Problems"
-event:
+event: 27th Biennial Numerical Analysis Conference
 event_url:
 location: University of Strathclyde
 address:

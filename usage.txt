@@ -7,7 +7,7 @@ Editing:
 
 Other things in content/home/*.md (e.g. teaching, software)
 About info in content/authors/admin/_index.md
-Other useful settings in config/_default/*.toml
+Other useful settings in config/_default/*.toml (including top menu layout)
 
 https://sourcethemes.com/academic/docs/managing-content/#introduction
 

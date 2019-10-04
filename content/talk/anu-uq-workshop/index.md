@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Derivative-Free Algorithms for Nonconvex Optimisation"
-event: ANU Computational Mathematics Seminar
-event_url: https://maths.anu.edu.au/news-events/event-series/computational-mathematics-seminar
+title: "Improving the efficiency and robustness of black-box optimisation"
+event: ANU Uncertainty Quantification Workshop
+event_url: https://maths.anu.edu.au/news-events/events/uncertainty-quantification-workshop
 location: Australian National University
 address:
   street:
@@ -12,16 +12,16 @@ address:
   postcode:
   country:
 summary:
-abstract: "Classical nonconvex optimisation algorithms require the availability of gradient evaluations for constructing local approximations to the objective function and testing for convergence. In settings where the objective is expensive to evaluate and/or noisy, evaluating its gradient may be too expensive or inaccurate, so cannot be used; we must turn to optimisation methods which do not require gradient information, so-called derivative-free optimisation (DFO). DFO has applications in areas such as finance, climate modelling and machine learning. In this talk, I will introduce DFO methods and recent progress in the theory and implementation of these methods, with a particular focus on least-squares problems (e.g. parameter fitting)."
+abstract: "In classical nonlinear optimisation, the availability of first-order information is crucial to constructing accurate local models for the objective and finding descent directions. However, when the objective function is black-box, computationally expensive and/or stochastic - which occurs in a variety of practical settings - gradients may be too expensive to compute or too inaccurate to be useful. In this setting, derivative-free optimisation (DFO) provides an alternative class of algorithm, which has grown rapidly in popularity and maturity in recent years. In this talk, I will present new techniques for model-based DFO, which yield an improvement in the efficiency and robustness of existing methods. My focus will be on both general minimisation and nonlinear least-squares problems specifically."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-10-14
-#date_end: 2019-10-14
+date: 2019-11-25
+date_end: 2019-11-29
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-09-24T11:55:10+10:00
+publishDate: 2019-10-04T11:15:57+10:00
 
 authors: []
 tags: []

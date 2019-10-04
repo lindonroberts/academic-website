@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:lindon.roberts@anu.edu.au'  # Was '#contact'. For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=s8Xj5BgAAAAJ
@@ -67,5 +67,7 @@ email: "lindon.roberts@anu.edu.au"
 
 Lindon Roberts is an MSI Fellow at the Mathematical Sciences Institute, Australian National University. His research interests are in numerical analysis and data science, particularly nonconvex and derivative-free optimization.
 
-[<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> orcid.org/0000-0001-6438-9703](https://orcid.org/0000-0001-6438-9703)
+* [Publication list](publication)
+* [ORCID](https://orcid.org/0000-0001-6438-9703)
+* [Departmental webpage](https://maths.anu.edu.au/people/academics/lindon-roberts)
  

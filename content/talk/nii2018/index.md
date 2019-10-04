@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Improving the Flexibility and Robustness of Derivative-Free Optimization Solvers"
-event: Invited Seminar
+event: National Institute of Informatics Invited Seminar
 event_url:
 location: National Institute of Informatics, Tokyo
 address:

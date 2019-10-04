@@ -1,6 +1,7 @@
 [submodule "themes/academic"]
 	path = themes/academic
 	url = https://github.com/gcushen/hugo-academic.git
+	ignore = untracked
 [submodule "public"]
 	path = public
 	url = git@github.com:lindonroberts/lindonroberts.github.io.git
