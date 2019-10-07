@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = ""
+subtitle = "[Google Scholar](https://scholar.google.co.uk/citations?user=s8Xj5BgAAAAJ) | [ORCID](https://orcid.org/0000-0001-6438-9703)"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

@@ -66,8 +66,4 @@ email: "lindon.roberts@anu.edu.au"
 ---
 
 Lindon Roberts is an MSI Fellow at the Mathematical Sciences Institute, Australian National University. His research interests are in numerical analysis and data science, particularly nonconvex and derivative-free optimization.
-
-* [Publication list](publication)
-* [ORCID](https://orcid.org/0000-0001-6438-9703)
-* [Departmental webpage](https://maths.anu.edu.au/people/academics/lindon-roberts)
  

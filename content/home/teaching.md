@@ -49,20 +49,18 @@ subtitle = ""
 
 **Australian National University**
 
-* 2019, Lecturer, Matrix Computations (3rd year undergraduate; filling in for primary lecturer)
+* 2019, Lecturer, [MATH3512/6112 Matrix Computations](https://programsandcourses.anu.edu.au/course/MATH3512) (filling in for primary lecturer)
 
 **University of Oxford**
 
-* 2019, Tutor, Continuous Optimization (Master's level)
-* 2018, Tutor, Numerical Linear Algebra (4th year undergraduate)
-* 2018, Tutor, Numerical Solution of Differential Equations 1 (Master's level)
-* 2018, Lecturer, Introduction to Linux (1st year DPhil level)
-* 2018, College Tutor (Mansfield College), Calculus of Variations (2nd year undergraduate)
-* 2018, Tutor, Continuous Optimization (Master's level)
-* 2017, Tutor, Numerical Solution of Differential Equations 1 (3rd year undergraduate)
-* 2017, Tutor, Continuous Optimization and Numerical Linear Algebra (1st year DPhil level)
-* 2017, Teaching Assistant, Continuous Optimization (Master's level)
-* 2016, Teaching Assistant, Numerical Linear Algebra (4th year undergraduate and Master's level)
+* 2018--2019, Tutor, [C6.2 Continuous Optimization](https://courses.maths.ox.ac.uk/node/42762)
+* 2018, Tutor, [C6.1 Numerical Linear Algebra](https://courses.maths.ox.ac.uk/node/42735)
+* 2017--2018, Tutor, [B6.1 Numerical Solution of Differential Equations 1](https://courses.maths.ox.ac.uk/node/42124)
+* 2018, Lecturer, [InFoMM CDT Introduction to Linux](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/infomm-course)
+* 2018, College Tutor (Mansfield College), [ASO Calculus of Variations](https://courses.maths.ox.ac.uk/node/44169)
+* 2017, Tutor, [InFoMM CDT Continuous Optimization and Numerical Linear Algebra](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt/infomm-course-3)
+* 2017, Teaching Assistant, [C6.2 Continuous Optimization](https://courses.maths.ox.ac.uk/node/42762)
+* 2016, Teaching Assistant, [C6.1 Numerical Linear Algebra](https://courses.maths.ox.ac.uk/node/42735)
 
 **Qualifications**
 

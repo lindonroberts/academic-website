@@ -5,6 +5,8 @@ Editing:
     /usr/local/bin/hugo new --kind publication publications/my-article-name
     Modify content/talks/my-talk-name/index.md to show relevant information
 
+Note: 'software' is actually a 'project', saved in project/softwarename
+
 Other things in content/home/*.md (e.g. teaching, software)
 About info in content/authors/admin/_index.md
 Other useful settings in config/_default/*.toml (including top menu layout)
