@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Improving the efficiency and robustness of black-box optimisation"
-event: ANU Uncertainty Quantification Workshop
-event_url: https://maths.anu.edu.au/news-events/events/uncertainty-quantification-workshop
-location: Australian National University
+title: "Improving the scalability of model-based derivative-free optimization"
+event: Data Science Down Under
+event_url: https://carma.newcastle.edu.au/meetings/dsdu
+location: University of Newcastle
 address:
   street:
   city:
@@ -12,16 +12,16 @@ address:
   postcode:
   country:
 summary:
-abstract: "In classical nonlinear optimisation, the availability of first-order information is crucial to constructing accurate local models for the objective and finding descent directions. However, when the objective function is black-box, computationally expensive and/or stochastic - which occurs in a variety of practical settings - gradients may be too expensive to compute or too inaccurate to be useful. In this setting, derivative-free optimisation (DFO) provides an alternative class of algorithm, which has grown rapidly in popularity and maturity in recent years. In this talk, I will present new techniques for model-based DFO, which yield an improvement in the efficiency and robustness of existing methods. My focus will be on both general minimisation and nonlinear least-squares problems specifically."
+abstract: "Derivative-free optimization (DFO) methods are an important class of optimization routines for many problems in data science, such as hyperparameter optimization and adversarial attacks for neural networks. However, in model-based DFO methods, the computational cost of constructing local models and Lagrange polynomials can be high. As a result, these algorithms are not as suitable for large-scale problems as derivative-based methods. In this talk, I will introduce a derivative-free method based on exploration of random subspaces, suitable for nonlinear least-squares problems. This method has a substantially reduced computational cost (in terms of linear algebra), while still making progress using few objective evaluations. I will also discuss how this approach may be extended to DFO for general nonlinear optimization problems."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-11-28
-#date_end: 2019-11-29
+date: 2019-12-08
+date_end: 2019-12-12
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2019-10-04T11:15:57+10:00
+publishDate: 2019-11-05T21:37:52+11:00
 
 authors: []
 tags: []

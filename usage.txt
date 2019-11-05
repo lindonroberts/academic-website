@@ -1,8 +1,8 @@
 Editing:
 1. Run /usr/local/bin/hugo server and navigate to http://localhost:1313/ to view an automatically-updated test page
 2. Add new publications/talks: 
-    /usr/local/bin/hugo new --kind talk talks/my-talk-name
-    /usr/local/bin/hugo new --kind publication publications/my-article-name
+    /usr/local/bin/hugo new --kind talk talk/my-talk-name
+    /usr/local/bin/hugo new --kind publication publication/my-article-name
     Modify content/talks/my-talk-name/index.md to show relevant information
 
 Note: 'software' is actually a 'project', saved in project/softwarename
