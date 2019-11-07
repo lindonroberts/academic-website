@@ -27,3 +27,20 @@ Deploy to Github:
 4. Push changes to github.io page
 
 https://sourcethemes.com/academic/docs/deployment/#github-pages
+
+
+============================
+Setup on new machine:
+
+Install hugo extended:
+- On https://github.com/gohugoio/hugo/releases, install the most recent hugo_extended version (must be extended, not regular)
+
+Download website materials
+- git clone git@github.com:lindonroberts/academic-website
+- cd academic-website
+- git submodule update --init --recursive
+
+Link published paged to lindonroberts.github.io (baseurl in config/_default/config.toml)
+- rm -r public
+- git submodule add -f -b master git@github.com:lindonroberts/lindonroberts.github.io.git public
+
