@@ -49,7 +49,9 @@ subtitle = ""
 
 **Australian National University**
 
-* 2019, Lecturer, [MATH3512/6112 Matrix Computations](https://programsandcourses.anu.edu.au/course/MATH3512) (filling in for primary lecturer)
+* 2020 (Semester 2), Lecturer, [MATH1013 Mathematics and Applications 1](https://programsandcourses.anu.edu.au/2020/course/MATH1013)
+* 2020 (Semester 1), Course convenor, Randomised Numerical Algorithms with Applications in Data Science (special topics course [MATH3349/4349/6209](https://programsandcourses.anu.edu.au/2020/course/MATH3349))
+* 2019 (Semester 1), Lecturer, [MATH3512/6112 Matrix Computations](https://programsandcourses.anu.edu.au/course/MATH3512) (filling in for primary lecturer)
 
 **University of Oxford**
 

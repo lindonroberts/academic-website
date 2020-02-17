@@ -66,4 +66,11 @@ email: "lindon.roberts@anu.edu.au"
 ---
 
 Lindon Roberts is an MSI Fellow at the Mathematical Sciences Institute, Australian National University. His research interests are in numerical analysis and data science, particularly nonconvex and derivative-free optimization.
- 
+
+**News:**
+
+- (Feb-20) My paper *A derivative-free Gauss-Newton method* has been awarded the best paper of 2019 for the journal *Mathematical Programming Computation*! Click [here](https://www.springer.com/journal/12532/updates/17226372) to read the announcement, and [here](https://doi.org/10.1007/s12532-019-00161-7) to read the paper.
+- (Jan-20) I will be attending the [Mathematics in Industry Study Group](https://mathsinindustry.com/) at the University of Newcastle.
+- (Dec-19) I will be presenting at the first [Data Science Down Under](https://carma.newcastle.edu.au/meetings/dsdu/) workshop at the University of Newcastle.
+- (Nov-19) I will be an invited speaker at ANU's [Uncertainty Quantification workshop](https://maths.anu.edu.au/news-events/events/uncertainty-quantification-workshop).
+
