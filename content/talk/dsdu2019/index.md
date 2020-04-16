@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Improving the scalability of model-based derivative-free optimization"
+title: "Improving the scalability of model-based derivative-free optimization [slides available]"
 event: Data Science Down Under
 event_url: https://carma.newcastle.edu.au/meetings/dsdu
 location: University of Newcastle
@@ -16,8 +16,8 @@ abstract: "Derivative-free optimization (DFO) methods are an important class of 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2019-12-08
-date_end: 2019-12-12
+date: 2019-12-11
+#date_end: 2019-12-11
 all_day: true
 
 # Schedule page publish date (NOT talk date).
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: roberts_dsdu.pdf
 
 url_code:
 url_pdf:

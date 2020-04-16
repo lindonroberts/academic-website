@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Derivative-free optimisation for least-squares problems"
+title: "Derivative-free optimisation for least-squares problems [slides available]"
 event: UNSW Applied Mathematics Seminar
 event_url: https://www.maths.unsw.edu.au/seminars/2020-04/derivative-free-optimisation-least-squares-problems
 location: University of New South Wales
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: roberts_unsw.pdf
 
 url_code:
 url_pdf:
