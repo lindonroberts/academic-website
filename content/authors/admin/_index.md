@@ -69,6 +69,7 @@ Lindon Roberts is an MSI Fellow at the Mathematical Sciences Institute, Australi
 
 **News:**
 
+- (Apr-20) I will be (virtually) presenting at the [UNSW Applied Mathematics Seminar](https://www.maths.unsw.edu.au/seminars/2020-04/derivative-free-optimisation-least-squares-problems). It will be recorded, so email me if you want to watch the recording.
 - (Feb-20) My paper *A derivative-free Gauss-Newton method* has been awarded the best paper of 2019 for the journal *Mathematical Programming Computation*! Click [here](https://www.springer.com/journal/12532/updates/17226372) to read the announcement, and [here](https://doi.org/10.1007/s12532-019-00161-7) to read the paper.
 - (Jan-20) I will be attending the [Mathematics in Industry Study Group](https://mathsinindustry.com/) at the University of Newcastle.
 - (Dec-19) I will be presenting at the first [Data Science Down Under](https://carma.newcastle.edu.au/meetings/dsdu/) workshop at the University of Newcastle.
