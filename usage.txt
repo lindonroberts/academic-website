@@ -8,13 +8,15 @@ Editing:
 Note: 'software' is actually a 'project', saved in project/softwarename
 
 Other things in content/home/*.md (e.g. teaching, software)
-About info in content/authors/admin/_index.md
+Top section (about/bio) in content/authors/admin/_index.md
 Other useful settings in config/_default/*.toml (including top menu layout)
+In particular, contact form details (e.g. address) are in config/_default/params.toml
 
 https://sourcethemes.com/academic/docs/managing-content/#introduction
 
 Can add blog posts, etc.
 
+** Modifying theme **
 To modify actual theme, don't change theme/academic/layouts
 Instead, copy into layouts/... and edit there (overrides the default theme option)
 
@@ -24,7 +26,8 @@ Deploy to Github:
 1. Push changes to academic-website
 2. Run /usr/local/bin/hugo
 3. cd into public (linked to lindonroberts.github.io page)
-4. Push changes to github.io page
+4. If updating optimization-resources, delete file opt/.git [otherwise adding a private submodule in public repo, which fails]
+5. Push changes to github.io page
 
 https://sourcethemes.com/academic/docs/deployment/#github-pages
 

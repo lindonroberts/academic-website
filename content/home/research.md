@@ -47,11 +47,16 @@ subtitle = ""
  css_class = ""
 +++
 
+Optimization
+------------
+[Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)---finding the maximum or minimum of a function---is one of the most important classes of problem in computational mathematics, arising often in scientific and industrial applications. My focus is on [nonlinear optimization](https://en.wikipedia.org/wiki/Nonlinear_programming), where the function to be optimized (the 'objective' function) is some nonlinear, possibly nonconvex function usually with little known structure.
+
+**Nonlinear optimization resources**
+
+Together with Coralia Cartis and Jaroslav Fowkes (University of Oxford), I maintain a page of [resources for nonlinear optimization](opt/), including a collection of software and test problems.
+
 Derivative-Free Optimization (DFO)
 ----------------------------------
-
-[Optimization](https://en.wikipedia.org/wiki/Mathematical_optimization)---finding the maximum or minimum of a function---is one of the most important classes of problem in computational mathematics, arising often in scientific and industrial applications. My focus is on [nonlinear optimization](https://en.wikipedia.org/wiki/Nonlinear_programming), where the function to be optimized (the 'objective' function) is some nonlinear, nonconvex function with unknown structure.
-
 Generally speaking, to optimize a nonlinear objective, you approximate it locally by some simpler function (such as a low-order Taylor series). To construct this simpler function, you need to evaluate the objective and its derivatives at some set of points. Evaluating the derivative of the objective can be done in several ways:
 
 * If you know the analytic form of the objective, you can compute its derivatives using calculus.

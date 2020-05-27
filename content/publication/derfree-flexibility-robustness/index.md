@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/1804.00154
+url_preprint: https://arxiv.org/abs/1804.00154
 url_code: https://github.com/numericalalgorithmsgroup/pybobyqa
 #url_code: https://github.com/numericalalgorithmsgroup/dfols
 url_dataset:

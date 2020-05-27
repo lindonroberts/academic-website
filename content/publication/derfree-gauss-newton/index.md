@@ -36,7 +36,7 @@ featured: true
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/1710.11005
+url_preprint: https://arxiv.org/abs/1710.11005
 url_code: https://github.com/numericalalgorithmsgroup/dfogn
 url_dataset:
 url_poster:

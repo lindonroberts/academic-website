@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Software"
-subtitle = "Click on each package for more details"
+subtitle = "[Github](https://github.com/lindonroberts) | Click on each package for more details. Other useful packages not developed by me are listed on the [nonlinear optimization resources](opt/) webpage"
 
 [content]
   # Page type to display. E.g. project.

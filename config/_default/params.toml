@@ -110,6 +110,8 @@ office_hours = []
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = []
+# Email icon only (only needed when email_form != 0 in contact.md)
+#contact_links = [{icon = "envelope", icon_pack = "fas", name = "lindon.roberts@anu.edu.au", link = "mailto:lindon.roberts@anu.edu.au"}]
 #contact_links = [
 #  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
 #  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
