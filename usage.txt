@@ -29,6 +29,18 @@ Deploy to Github:
 https://sourcethemes.com/academic/docs/deployment/#github-pages
 
 
+Update optimization-resources:
+- cd static/opt
+- git pull
+- (deploy to Github as above)
+
+============================
+
+Setting up opt resources page:
+1. In academic-website/static (creates new "opt" folder), 
+    git submodule add -f -b master git@github.com:jfowkes/optimization-resources opt
+
+
 ============================
 Setup on new machine:
 
@@ -44,3 +56,6 @@ Link published paged to lindonroberts.github.io (baseurl in config/_default/conf
 - rm -r public
 - git submodule add -f -b master git@github.com:lindonroberts/lindonroberts.github.io.git public
 
+Link to optimization-resources:
+- cd static
+- git submodule add -f -b master git@github.com:jfowkes/optimization-resources opt
