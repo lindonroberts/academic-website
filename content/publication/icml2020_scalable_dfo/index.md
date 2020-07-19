@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://sites.google.com/view/optml-icml2020/accepted-papers
+url_pdf: https://drive.google.com/file/d/1WYInYHBzCwsY0uxq23ZBcjiWVNCpuGFn/view?usp=sharing
 url_code:
 url_dataset:
 url_poster:
