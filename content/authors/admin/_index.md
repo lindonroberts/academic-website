@@ -71,9 +71,9 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Recent news:**
 
+- (Oct-20) I'm delighted to receive the Reddick Prize from the [InFoMM CDT](https://www.maths.ox.ac.uk/study-here/postgraduate-study/industrially-focused-mathematical-modelling-epsrc-cdt) at the University of Oxford for my doctoral research!
 - (Jun-20) New paper [Scalable Derivative-Free Optimization for Nonlinear Least-Squares Problems](https://arxiv.org/abs/2007.13243) with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) and Tyler Ferguson (Oxford) has been accepted for the ICML workshop [Beyond First-Order Methods in ML Systems](https://sites.google.com/view/optml-icml2020/accepted-papers).
 - (Jun-20) New paper [Inexact Derivative-Free Optimization for Bilevel Learning](https://arxiv.org/abs/2006.12674) with [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath). We introduce a new algorithm for learning variational regularization parameters, applicable to problems such as image denoising and MRI reconstruction.
 - (May-20) My [nonlinear optimization resources](opt/) page is now public. This has been built over several years with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) and [Jaroslav Fowkes](http://people.maths.ox.ac.uk/fowkes/) (University of Oxford).
 - (Apr-20) I will be (virtually) presenting at the [UNSW Applied Mathematics Seminar](https://www.maths.unsw.edu.au/seminars/2020-04/derivative-free-optimisation-least-squares-problems). It will be recorded, so email me if you want to watch the recording.
-- (Feb-20) My paper *A derivative-free Gauss-Newton method* has been awarded the best paper of 2019 for the journal *Mathematical Programming Computation*! Click [here](https://www.springer.com/journal/12532/updates/17226372) to read the announcement, and [here](https://doi.org/10.1007/s12532-019-00161-7) to read the paper.
 
