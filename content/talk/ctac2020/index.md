@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Derivative-Free Optimisation for Bilevel Learning"
+title: "Inexact Derivative-Free Optimisation for Bilevel Learning [slides available]"
 event: CTAC 2020
 event_url: https://www.ctac2020.unsw.edu.au/
 location: University of New South Wales
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: roberts_ctac.pdf
 
 url_code:
 url_pdf:
