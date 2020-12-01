@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Inexact Derivative-Free Optimisation for Bilevel Learning [slides available]"
-event: CTAC 2020
-event_url: https://www.ctac2020.unsw.edu.au/
-location: University of New South Wales
+title: "Block Methods for Scalable Derivative-Free Optimisation"
+event: AustMS 2020
+event_url:
+location:
 address:
   street:
   city:
@@ -12,16 +12,16 @@ address:
   postcode:
   country:
 summary:
-abstract: "When variational regularisation methods are used to solve inverse problems, they suffer from the drawback of having potentially many parameters which the user must specify. A common approach to handle this is to learn these parameters from data. While mathematically appealing, this strategy leads to a bilevel optimisation problem which is difficult to solve computationally. Theoretically, algorithms for bilevel learning rely on access to exact solutions to the lower-level regularisation problem, but this condition is not guaranteed in practice. In this talk, we describe a novel approach using dynamic accuracy derivative-free optimisation for solving bilevel learning problems. This approach still retains convergence guarantees but allows the regularisation problem to be solved inexactly and hence is able to be implemented in practice. Using problems from image analysis, we demonstrate that our approach dramatically reduces the computational requirements of bilevel learning. This is joint work with Matthias Ehrhardt (Bath)."
+abstract: "Derivative-free optimisation (DFO) methods are an important class of optimisation routines with applications in areas such as in image analysis and data science. However, in model-based DFO methods, the computational cost of constructing local models can be high. As a result, these algorithms are not as suitable for large-scale problems as derivative-based methods. In this talk, I will introduce a derivative-free method based on exploration of random subspaces, suitable for nonlinear least-squares problems. This method has a substantially reduced computational cost (in terms of linear algebra), while still making progress using few objective evaluations."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-08-31
-#date_end: 2020-08-31
+date: 2020-12-09
+#date_end: 2020-12-01T11:29:01+11:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2020-10-08T16:26:27+11:00
+publishDate: 2020-12-01T11:29:01+11:00
 
 authors: []
 tags: []
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides: roberts_ctac.pdf
+url_slides:
 
 url_code:
 url_pdf:
