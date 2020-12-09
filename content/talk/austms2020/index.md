@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Block Methods for Scalable Derivative-Free Optimisation"
+title: "Block Methods for Scalable Derivative-Free Optimisation [slides available]"
 event: AustMS 2020
 event_url:
 location:
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: roberts_austms.pdf
 
 url_code:
 url_pdf:
