@@ -3,8 +3,8 @@
 
 title: "Escaping local minima with local derivative-free methods: a numerical investigation"
 authors: [C. Cartis, L. Roberts, O. Sheridan-Methven]
-date: 2021-01-13
-doi: ""
+date: 2021-02-19
+doi: "10.1080/02331934.2021.1883015"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2019-09-24T10:54:50+10:00
@@ -16,7 +16,7 @@ publishDate: 2019-09-24T10:54:50+10:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Optimization (accepted)"
+publication: "Optimization"
 publication_short: ""
 
 abstract: "We apply a state-of-the-art, local derivative-free solver, Py-BOBYQA, to global optimization problems, and propose an algorithmic improvement that is beneficial in this context. Our numerical findings are illustrated on a commonly-used test set of global optimization problems and associated noisy variants, and on hyperparameter tuning for the machine learning test set MNIST. As Py-BOBYQA is a model-based trust-region method, we compare mostly (but not exclusively) with other global optimization methods for which (global) models are important, such as Bayesian optimization and response surface methods; we also consider state-of-the-art representative deterministic and stochastic codes, such as DIRECT and CMA-ES. We find Py-BOBYQA to be competitive with global solvers that are provably designed for finding global optima, for all accuracy/budget regimes, in both smooth and noisy settings. In particular, Py-BOBYQA variants are best performing for smooth and multiplicative noise problems in high-accuracy regimes. As a by-product, some preliminary conclusions can be drawn on the relative performance of the global solvers we have tested with default settings."
@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_preprint: https://arxiv.org/abs/1812.11343
-url_code:
+url_code: https://github.com/numericalalgorithmsgroup/pybobyqa
 url_dataset:
 url_poster:
 url_project:
