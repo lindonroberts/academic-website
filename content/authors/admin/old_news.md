@@ -1,5 +1,7 @@
 **News:**
 
+- (Mar-21) I will be speaking about bilevel learning at [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse21).
+- (Feb-21) New paper [Scalable Subspace Methods for Derivative-Free Nonlinear Least-Squares Optimization](https://arxiv.org/abs/2102.12016) with with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (University of Oxford). This introduces a general framework for derivative-free optimization in random subspaces and specializes it to nonlinear least-squares problems (with an [efficient implementation](https://github.com/numericalalgorithmsgroup/dfbgn)). 
 - (Jan-21) My paper [Escaping local minima with local derivative-free methods](https://arxiv.org/abs/1812.11343) with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) and [Oliver Sheridan-Methven](https://www.maths.ox.ac.uk/people/oliver.sheridan-methven) (University of Oxford) has been accepted by [Optimization](https://www.tandfonline.com/toc/gopt20/current).
 - (Dec-20) My paper [Inexact Derivative-Free Optimization for Bilevel Learning](https://arxiv.org/abs/2006.12674) with [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) has been accepted by the [Journal of Mathematical Imaging and Vision](https://www.springer.com/journal/10851).
 - (Dec-20) I will be speaking about large-scale DFO methods at both [WoMBaT](https://wombat.mocao.org/) and the optimization stream of [AustMS](https://austms.org.au/meetings/annual-conferences/2020-austms-meeting/). 
