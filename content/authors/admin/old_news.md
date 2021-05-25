@@ -1,5 +1,6 @@
 **News:**
 
+- (May-21) Very happy to be shortlisted for the [IMA Leslie Fox Prize for Numerical Analysis](https://ima.org.uk/awards-medals/ima-leslie-fox-prize-numerical-analysis/) for my recent paper on [scalable DFO](https://arxiv.org/abs/2102.12016). I will be talking about my work at the [Fox Prize event on 21 June](https://ima.org.uk/16899/20th-ima-leslie-fox-prize-event/).
 - (Apr-21) Excited to be interviewed by Channel 9 National News about the progress of Australia's COVID-19 vaccine rollout: [1 April](https://youtube.com/watch?v=OfWOTrvRFHg) and [16 April](https://www.youtube.com/watch?v=puN9aKbcvys).
 - (Mar-21) I will be speaking about bilevel learning at [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse21).
 - (Feb-21) New paper [Scalable Subspace Methods for Derivative-Free Nonlinear Least-Squares Optimization](https://arxiv.org/abs/2102.12016) with with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (University of Oxford). This introduces a general framework for derivative-free optimization in random subspaces and specializes it to nonlinear least-squares problems (with an [efficient implementation](https://github.com/numericalalgorithmsgroup/dfbgn)). 
