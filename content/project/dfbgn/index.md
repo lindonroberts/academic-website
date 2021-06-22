@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/numericalalgorithmsgroup/dfbgn"
-url_pdf: ""
+url_pdf: "https://arxiv.org/abs/2102.12016"
 url_slides: ""
 url_video: ""
 
