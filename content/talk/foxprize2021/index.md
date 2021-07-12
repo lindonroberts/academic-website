@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Scalable Subspace Methods for Derivative-Free Nonlinear Least-Squares Optimization [slides available]"
+title: "Scalable Subspace Methods for Derivative-Free Nonlinear Least-Squares Optimization [slides & video available]"
 event: 20th IMA Leslie Fox Prize Event
 event_url: https://ima.org.uk/16899/20th-ima-leslie-fox-prize-event/
 location:
@@ -50,7 +50,7 @@ url_slides: roberts_fox_prize.pdf
 
 url_code:
 url_pdf:
-url_video:
+url_video: https://www.youtube.com/watch?v=CS2QBTwR8-4
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
