@@ -85,6 +85,6 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Awards:**
 
-- IMA Leslie Fox Prize for Numerical Analysis (2021).
+- [IMA Leslie Fox Prize for Numerical Analysis](https://ima.org.uk/awards-medals/ima-leslie-fox-prize-numerical-analysis/) (2021).
 - Reddick Prize, Mathematical Institute, University of Oxford (2020).
-- Best paper award, *Mathematical Programming Computation* (2019).
+- [Best paper award, *Mathematical Programming Computation*](https://www.springer.com/journal/12532/updates/17226372) (2019).

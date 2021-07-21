@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Large-Scale Derivative-Free Optimization using Subspace Methods"
+title: "Large-Scale Derivative-Free Optimization using Subspace Methods [slides available]"
 event: SIAM OP21
 event_url: https://www.siam.org/conferences/cm/conference/op21
 location:
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: roberts_siopt.pdf
 
 url_code:
 url_pdf:
