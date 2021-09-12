@@ -30,7 +30,7 @@ education:
   courses:
   - course: DPhil in Mathematics
     institution: University of Oxford
-    year: 2019 (awarded, conferral delayed by COVID-19)
+    year: 2019
   - course: Bachelor of Computational Science (Honours)
     institution: Australian National University
     year: 2011
