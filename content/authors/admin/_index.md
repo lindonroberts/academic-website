@@ -71,6 +71,9 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Recent news:**
 
+- (Oct-21) I will be speaking about large-scale DFO at the [INFORMS Annual Meeting](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2021-INFORMS-Annual-Meeting), as well as organising two sessions on DFO.
+- (Oct-21) I will be speaking about bilevel learning at the [Machine Learning and Intelligent Systems](https://www.lamsade.dauphine.fr/wp/miles/) seminar at Université Paris Dauphine-PSL.
+- (Sep-21) I will be speaking about large-scale DFO at the University of Leicester's CSE Mathematics Seminar.
 - (Jul-21) I will be speaking about large-scale DFO at [EUROPT](https://europt2021.sciencesconf.org/), [EURO](https://euro2021athens.com/) and [SIOPT](https://www.siam.org/conferences/cm/conference/op21).
 - (Jul-21) Interviewed by Channel 9 National News about projections for Australia's COVID-19 vaccine rollout: [video here](https://www.youtube.com/watch?v=9CHHjuBWOXs)
 - (Jun-21) Delighted to be announced as the first prize winner of the [20th IMA Leslie Fox Prize for Numerical Analysis](https://ima.org.uk/awards-medals/ima-leslie-fox-prize-numerical-analysis/) for my recent paper on [scalable DFO](https://arxiv.org/abs/2102.12016)! Watch the video of my talk [here](https://www.youtube.com/watch?v=CS2QBTwR8-4).
@@ -79,9 +82,6 @@ Details of my CV, publications, talks and software are below (or look at [Google
 - (Apr-21) Excited to be interviewed by Channel 9 National News about the progress of Australia's COVID-19 vaccine rollout: [1 April](https://youtube.com/watch?v=OfWOTrvRFHg) and [16 April](https://www.youtube.com/watch?v=puN9aKbcvys).
 - (Mar-21) I will be speaking about bilevel learning at [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse21).
 - (Feb-21) New paper [Scalable Subspace Methods for Derivative-Free Nonlinear Least-Squares Optimization](https://arxiv.org/abs/2102.12016) with with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (University of Oxford). This introduces a general framework for derivative-free optimization in random subspaces and specializes it to nonlinear least-squares problems (with an [efficient implementation](https://github.com/numericalalgorithmsgroup/dfbgn)). 
-- (Jan-21) My paper [Escaping local minima with local derivative-free methods](https://arxiv.org/abs/1812.11343) with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) and [Oliver Sheridan-Methven](https://www.maths.ox.ac.uk/people/oliver.sheridan-methven) (University of Oxford) has been accepted by [Optimization](https://www.tandfonline.com/toc/gopt20/current).
-- (Dec-20) My paper [Inexact Derivative-Free Optimization for Bilevel Learning](https://arxiv.org/abs/2006.12674) with [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) has been accepted by the [Journal of Mathematical Imaging and Vision](https://www.springer.com/journal/10851).
-- (Dec-20) I will be speaking about large-scale DFO methods at both [WoMBaT](https://wombat.mocao.org/) and the optimization stream of [AustMS](https://austms.org.au/meetings/annual-conferences/2020-austms-meeting/). 
 
 **Awards:**
 
