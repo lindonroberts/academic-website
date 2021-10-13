@@ -72,7 +72,7 @@ Details of my CV, publications, talks and software are below (or look at [Google
 **Recent news:**
 
 - (Oct-21) I will be speaking about large-scale DFO at the [INFORMS Annual Meeting](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2021-INFORMS-Annual-Meeting), as well as organising two sessions on DFO.
-- (Oct-21) I will be speaking about bilevel learning at the [Machine Learning and Intelligent Systems](https://www.lamsade.dauphine.fr/wp/miles/) seminar at Université Paris Dauphine-PSL.
+- (Oct-21) I will be speaking about bilevel learning at the [Machine Intelligence and Learning Systems](https://www.lamsade.dauphine.fr/wp/miles/) seminar at Université Paris Dauphine-PSL.
 - (Sep-21) I will be speaking about large-scale DFO at the University of Leicester's CSE Mathematics Seminar.
 - (Jul-21) I will be speaking about large-scale DFO at [EUROPT](https://europt2021.sciencesconf.org/), [EURO](https://euro2021athens.com/) and [SIOPT](https://www.siam.org/conferences/cm/conference/op21).
 - (Jul-21) Interviewed by Channel 9 National News about projections for Australia's COVID-19 vaccine rollout: [video here](https://www.youtube.com/watch?v=9CHHjuBWOXs)
