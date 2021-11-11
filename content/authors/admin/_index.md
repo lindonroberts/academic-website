@@ -71,6 +71,9 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Recent news:**
 
+- (Dec-21) I will be speaking about [convex-constrained DFO](http://arxiv.org/abs/2111.05443) at [WoMBaT](https://wombat.mocao.org/) at [AustMS 2021](https://austms.org.au/event/austms-2021/).
+- (Nov-21) I am lead organizer for the [Workshop on the Intersections of Computation and Optimisation](https://maths.anu.edu.au/news-events/events/workshop-intersections-computation-and-optimisations) on 22-25 November at ANU. This is the first such workshop, a new initiative of the AustMS special interest group [MoCaO](https://www.mocao.org/). 
+- (Nov-21) New paper out, *Model-Based Derivative-Free Methods for Convex-Constrained Optimization* with [Matthew Hough](https://hough.tv/) (University of Waterloo), where we show how use interpolation in general convex sets to do model-based derivative-free optimization. Read it [here](http://arxiv.org/abs/2111.05443), and download the new version 1.3 of [DFO-LS](https://github.com/numericalalgorithmsgroup/dfols) which can now solve problems with general convex constraints!
 - (Oct-21) I will be speaking about large-scale DFO at the [INFORMS Annual Meeting](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2021-INFORMS-Annual-Meeting), as well as organising two sessions on DFO.
 - (Oct-21) I will be speaking about bilevel learning at the [Machine Intelligence and Learning Systems](https://www.lamsade.dauphine.fr/wp/miles/) seminar at Université Paris Dauphine-PSL.
 - (Sep-21) I will be speaking about large-scale DFO at the University of Leicester's CSE Mathematics Seminar.
@@ -79,9 +82,6 @@ Details of my CV, publications, talks and software are below (or look at [Google
 - (Jun-21) Delighted to be announced as the first prize winner of the [20th IMA Leslie Fox Prize for Numerical Analysis](https://ima.org.uk/awards-medals/ima-leslie-fox-prize-numerical-analysis/) for my recent paper on [scalable DFO](https://arxiv.org/abs/2102.12016)! Watch the video of my talk [here](https://www.youtube.com/watch?v=CS2QBTwR8-4).
 - (Jun-21) New paper submitted, *Does Model Calibration Reduce Uncertainty in Climate Projections?*, led by [Simon Tett](https://www.research.ed.ac.uk/en/persons/simon-tett) (University of Edinburgh). The study shows that performing structured parameter tuning of climate models helps to significantly reduce the uncertainties in their predictions. It also shows that my [DFO-LS](https://github.com/numericalalgorithmsgroup/dfols) code is an effective solver for parameter fitting of climate models. Preprint coming soon!
 - (May-21) Very happy to be shortlisted for the [IMA Leslie Fox Prize for Numerical Analysis](https://ima.org.uk/awards-medals/ima-leslie-fox-prize-numerical-analysis/) for my recent paper on [scalable DFO](https://arxiv.org/abs/2102.12016). I will be talking about my work at the [Fox Prize event on 21 June](https://ima.org.uk/16899/20th-ima-leslie-fox-prize-event/).
-- (Apr-21) Excited to be interviewed by Channel 9 National News about the progress of Australia's COVID-19 vaccine rollout: [1 April](https://youtube.com/watch?v=OfWOTrvRFHg) and [16 April](https://www.youtube.com/watch?v=puN9aKbcvys).
-- (Mar-21) I will be speaking about bilevel learning at [SIAM CSE](https://www.siam.org/conferences/cm/conference/cse21).
-- (Feb-21) New paper [Scalable Subspace Methods for Derivative-Free Nonlinear Least-Squares Optimization](https://arxiv.org/abs/2102.12016) with with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (University of Oxford). This introduces a general framework for derivative-free optimization in random subspaces and specializes it to nonlinear least-squares problems (with an [efficient implementation](https://github.com/numericalalgorithmsgroup/dfbgn)). 
 
 **Awards:**
 
