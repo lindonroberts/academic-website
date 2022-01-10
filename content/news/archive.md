@@ -1,7 +1,35 @@
-**News:**
+---
+# Documentation: https://sourcethemes.com/academic/docs/managing-content/
+
+title: "News Archive"
+subtitle: ""
+summary: ""
+authors: []
+tags: []
+categories: []
+date: 2022-01-11T09:38:15+11:00
+lastmod: 2022-01-11T09:38:15+11:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ""
+  focal_point: ""
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+---
 
 - (Dec-21) Our paper *Does Model Calibration Reduce Uncertainty in Climate Projections?*, led by [Simon Tett](https://www.research.ed.ac.uk/en/persons/simon-tett) (University of Edinburgh) has been accepted to the Journal of Climate.
-- (Dec-21) I will be speaking about [convex-constrained DFO](http://arxiv.org/abs/2111.05443) at [WoMBaT](https://wombat.mocao.org/) at [AustMS 2021](https://austms.org.au/event/austms-2021/).
+- (Dec-21) I will be speaking about [convex-constrained DFO](http://arxiv.org/abs/2111.05443) at [WoMBaT](https://wombat.mocao.org/) and [AustMS 2021](https://austms.org.au/event/austms-2021/).
 - (Nov-21) I am lead organizer for the [Workshop on the Intersections of Computation and Optimisation](https://maths.anu.edu.au/news-events/events/workshop-intersections-computation-and-optimisations) on 22-25 November at ANU. This is the first such workshop, a new initiative of the AustMS special interest group [MoCaO](https://www.mocao.org/). 
 - (Nov-21) New paper out, *Model-Based Derivative-Free Methods for Convex-Constrained Optimization* with [Matthew Hough](https://hough.tv/) (University of Waterloo), where we show how use interpolation in general convex sets to do model-based derivative-free optimization. Read it [here](http://arxiv.org/abs/2111.05443), and download the new version 1.3 of [DFO-LS](https://github.com/numericalalgorithmsgroup/dfols) which can now solve problems with general convex constraints!
 - (Oct-21) I will be speaking about large-scale DFO at the [INFORMS Annual Meeting](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2021-INFORMS-Annual-Meeting), as well as organising two sessions on DFO.
@@ -29,4 +57,3 @@
 - (Jan-20) I will be attending the [Mathematics in Industry Study Group](https://mathsinindustry.com/) at the University of Newcastle.
 - (Dec-19) I will be presenting at the first [Data Science Down Under](https://carma.newcastle.edu.au/meetings/dsdu/) workshop at the University of Newcastle.
 - (Nov-19) I will be an invited speaker at ANU's [Uncertainty Quantification workshop](https://maths.anu.edu.au/news-events/events/uncertainty-quantification-workshop).
-

@@ -12,6 +12,11 @@ Top section (news/about/bio) in content/authors/admin/_index.md
 Other useful settings in config/_default/*.toml (including top menu layout)
 In particular, contact form details (e.g. address) are in config/_default/params.toml
 
+New static page (like news archive):
+    hugo new news/archive.md
+    hugo server
+This new page becomes available at http://localhost:131/news/archive
+
 https://sourcethemes.com/academic/docs/managing-content/#introduction
 
 Can add blog posts, etc.

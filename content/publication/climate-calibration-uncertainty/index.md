@@ -13,11 +13,11 @@ publishDate: 2020-01-01
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted"
-publication_short: "Submitted"
+publication: "Journal of Climate"
+publication_short: "J. Climate"
 
 abstract: ""
 
@@ -37,8 +37,8 @@ featured: false
 #   icon: twitter
 
 url_pdf:
-url_code:
-url_dataset:
+url_code: https://github.com/SimonTett/Jclim21_calibrate
+url_dataset: https://doi.org/10.7488/ds/3051
 url_poster:
 url_project:
 url_slides:
