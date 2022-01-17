@@ -71,7 +71,7 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Recent news:**
 
-- (Dec-21) Our paper *Does Model Calibration Reduce Uncertainty in Climate Projections?*, led by [Simon Tett](https://www.research.ed.ac.uk/en/persons/simon-tett) (University of Edinburgh) has been accepted to the Journal of Climate.
+- (Dec-21) Our paper *Does Model Calibration Reduce Uncertainty in Climate Projections?*, led by [Simon Tett](https://www.research.ed.ac.uk/en/persons/simon-tett) (University of Edinburgh) has been accepted to the Journal of Climate. Read the paper [here](https://doi.org/10.1175/JCLI-D-21-0434.1), or my brief summary for mathematicians [here]({{< ref "publication/climate-calibration-uncertainty/index.md" >}}).
 - (Dec-21) I will be speaking about [convex-constrained DFO](http://arxiv.org/abs/2111.05443) at [WoMBaT](https://wombat.mocao.org/) and [AustMS 2021](https://austms.org.au/event/austms-2021/).
 - (Nov-21) I am lead organizer for the [Workshop on the Intersections of Computation and Optimisation](https://maths.anu.edu.au/news-events/events/workshop-intersections-computation-and-optimisations) on 22-25 November at ANU. This is the first such workshop, a new initiative of the AustMS special interest group [MoCaO](https://www.mocao.org/). 
 - (Nov-21) New paper out, *Model-Based Derivative-Free Methods for Convex-Constrained Optimization* with [Matthew Hough](https://hough.tv/) (University of Waterloo), where we show how use interpolation in general convex sets to do model-based derivative-free optimization. Read it [here](http://arxiv.org/abs/2111.05443), and download the new version 1.3 of [DFO-LS](https://github.com/numericalalgorithmsgroup/dfols) which can now solve problems with general convex constraints!
