@@ -8,7 +8,7 @@ Editing:
 Note: 'software' is actually a 'project', saved in project/softwarename
 
 Other things in content/home/*.md (e.g. teaching, software)
-Top section (news/about/bio) in content/authors/admin/_index.md
+Top section (news/about/bio) in content/authors/admin/_index.md, and archive is in content/news/archive.md
 Other useful settings in config/_default/*.toml (including top menu layout)
 In particular, contact form details (e.g. address) are in config/_default/params.toml
 

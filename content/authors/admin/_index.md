@@ -71,6 +71,7 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Recent news:**
 
+- (Feb-21) Some thoughts I have about giving research seminars are now available on the [ANU MSI website](https://maths.anu.edu.au/files/talk-advice.pdf). They are based on mine and [Pierre Portal's](https://sites.google.com/view/pierre-portal/home) experiences and are aimed at students in any area of mathematics. Of course, they are just our opinions and shouldn't be taken as definitive!
 - (Dec-21) Our paper *Does Model Calibration Reduce Uncertainty in Climate Projections?*, led by [Simon Tett](https://www.research.ed.ac.uk/en/persons/simon-tett) (University of Edinburgh) has been accepted to the Journal of Climate. Read the paper [here](https://doi.org/10.1175/JCLI-D-21-0434.1), or my brief summary for mathematicians [here]({{< ref "publication/climate-calibration-uncertainty/index.md" >}}).
 - (Dec-21) I will be speaking about [convex-constrained DFO](http://arxiv.org/abs/2111.05443) at [WoMBaT](https://wombat.mocao.org/) and [AustMS 2021](https://austms.org.au/event/austms-2021/).
 - (Nov-21) I am lead organizer for the [Workshop on the Intersections of Computation and Optimisation](https://maths.anu.edu.au/news-events/events/workshop-intersections-computation-and-optimisations) on 22-25 November at ANU. This is the first such workshop, a new initiative of the AustMS special interest group [MoCaO](https://www.mocao.org/). 
@@ -82,7 +83,6 @@ Details of my CV, publications, talks and software are below (or look at [Google
 - (Jul-21) Interviewed by Channel 9 National News about projections for Australia's COVID-19 vaccine rollout: [video here](https://www.youtube.com/watch?v=9CHHjuBWOXs)
 - (Jun-21) Delighted to be announced as the first prize winner of the [20th IMA Leslie Fox Prize for Numerical Analysis](https://ima.org.uk/awards-medals/ima-leslie-fox-prize-numerical-analysis/) for my recent paper on [scalable DFO](https://arxiv.org/abs/2102.12016)! Watch the video of my talk [here](https://www.youtube.com/watch?v=CS2QBTwR8-4).
 - (Jun-21) New paper submitted, *Does Model Calibration Reduce Uncertainty in Climate Projections?*, led by [Simon Tett](https://www.research.ed.ac.uk/en/persons/simon-tett) (University of Edinburgh). The study shows that performing structured parameter tuning of climate models helps to significantly reduce the uncertainties in their predictions. It also shows that my [DFO-LS](https://github.com/numericalalgorithmsgroup/dfols) code is an effective solver for parameter fitting of climate models. Preprint coming soon!
-- (May-21) Very happy to be shortlisted for the [IMA Leslie Fox Prize for Numerical Analysis](https://ima.org.uk/awards-medals/ima-leslie-fox-prize-numerical-analysis/) for my recent paper on [scalable DFO](https://arxiv.org/abs/2102.12016). I will be talking about my work at the [Fox Prize event on 21 June](https://ima.org.uk/16899/20th-ima-leslie-fox-prize-event/).
 
 [News archive]({{< ref "news/archive.md" >}})
 
