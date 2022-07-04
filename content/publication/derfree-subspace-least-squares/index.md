@@ -3,8 +3,8 @@
 
 title: "Scalable Subspace Methods for Derivative-Free Nonlinear Least-Squares Optimization"
 authors: [C. Cartis, L. Roberts]
-date: 2021-02-25T13:20:10+11:00
-doi: ""
+date: 2022-06-09
+doi: "10.1007/s10107-022-01836-1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-02-25T13:20:10+11:00
@@ -13,11 +13,11 @@ publishDate: 2021-02-25T13:20:10+11:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted"
-publication_short: "Submitted"
+publication: "Mathematical Programming"
+publication_short: "Math. Prog."
 
 abstract: "We introduce a general framework for large-scale model-based derivative-free optimization based on iterative minimization within random subspaces. We present a probabilistic worst-case complexity analysis for our method, where in particular we prove high-probability bounds on the number of iterations before a given optimality is achieved. This framework is specialized to nonlinear least-squares problems, with a model-based framework based on the Gauss-Newton method. This method achieves scalability by constructing local linear interpolation models to approximate the Jacobian, and computes new steps at each iteration in a subspace with user-determined dimension. We then describe a practical implementation of this framework, which we call DFBGN. We outline efficient techniques for selecting the interpolation points and search subspace, yielding an implementation that has a low per-iteration linear algebra cost (linear in the problem dimension) while also achieving fast objective decrease as measured by evaluations. Extensive numerical results demonstrate that DFBGN has improved scalability, yielding strong performance on large-scale nonlinear least-squares problems."
 

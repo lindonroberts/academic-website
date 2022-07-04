@@ -25,6 +25,10 @@ Can add blog posts, etc.
 To modify actual theme, don't change theme/academic/layouts
 Instead, copy into layouts/... and edit there (overrides the default theme option)
 
+
+Update contact form: config/_default/params.toml
+Update position info: content/authors/admin/_index.md
+
 ============================
 
 Deploy to Github:

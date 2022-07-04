@@ -28,6 +28,9 @@ image:
 projects: []
 ---
 
+- (Jul-22) I will be speaking about large-scale DFO at the ARC OPTIMA training centre seminar series. Details including Zoom information [here](https://optima.org.au/events/optima-seminar-series-27-jul-2022/).
+- (Jul-22) I am excited to have started a new position as a lecturer in the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/) at the [University of Sydney](https://www.sydney.edu.au/). 
+- (Jun-22) Our paper *Scalable Subspace Methods for Derivative-Free Nonlinear Least-Squares Optimization* with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (University of Oxford) has been published in Mathematical Programming. Read the paper [here](https://doi.org/10.1007/s10107-022-01836-1).
 - (Apr-22) New paper out, *Direct search based on probabilistic descent in reduced spaces* with [Clément Royer](https://www.lamsade.dauphine.fr/~croyer/) (Université Paris Dauphine-PSL), showing how using randomized subspaces can make direct search methods more efficient at scale. Read it [here](https://arxiv.org/abs/2204.01275).
 - (Feb-22) Some thoughts I have about giving research seminars are now available on the [ANU MSI website](https://maths.anu.edu.au/files/talk-advice.pdf). They are based on mine and [Pierre Portal's](https://sites.google.com/view/pierre-portal/home) experiences and are aimed at students in any area of mathematics. Of course, they are just our opinions and shouldn't be taken as definitive!
 - (Dec-21) Our paper *Does Model Calibration Reduce Uncertainty in Climate Projections?*, led by [Simon Tett](https://www.research.ed.ac.uk/en/persons/simon-tett) (University of Edinburgh) has been accepted to the Journal of Climate. Read the paper [here](https://doi.org/10.1175/JCLI-D-21-0434.1), or my brief summary for mathematicians [here]({{< ref "publication/climate-calibration-uncertainty/index.md" >}}).

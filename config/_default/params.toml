@@ -85,19 +85,21 @@ edit_page = {repo_url = "https://github.com/lindonroberts/academic-website", rep
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "lindon.roberts@anu.edu.au"
-phone = "+61 2 6125 4678"
+email = "lindon.roberts@sydney.edu.au"
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Hanna Neumann Building 145, Science Road, Australian National University", city = "Canberra", region = "ACT", postcode = "2601", country = "Australia", country_code = "AU"}
+# address = {street = "Hanna Neumann Building 145, Science Road, Australian National University", city = "Canberra", region = "ACT", postcode = "2601", country = "Australia", country_code = "AU"}
+address = {street = "Carslaw Building (F07), University of Sydney", city = "Camperdown", region = "NSW", postcode = "2006", country = "Australia", country_code = "AU"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "-35.275387", longitude = "149.119207"}
+coordinates = {latitude = "-33.8884868175262", longitude = "151.19074354219575"}
 
 # Directions for visitors to locate you.
-directions = "Office 4.87"
+#directions = "Office 4.87"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

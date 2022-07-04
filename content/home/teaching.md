@@ -47,6 +47,12 @@ subtitle = ""
  css_class = ""
 +++
 
+
+**University of Sydney**
+
+* 2022 (Semester 2), Course convenor, [FMAT3888 Projects in Financial Mathematics](https://www.sydney.edu.au/units/FMAT3888)
+* 2022 (Semester 2), Tutor, [MATH2070 Optimisation and Financial Mathematics](https://www.sydney.edu.au/units/MATH2070)
+
 **Australian National University**
 
 * 2021 (Semester 1), Course convenor, [MATH3511/6111 Scientific Computing](https://programsandcourses.anu.edu.au/2021/course/MATH3511)

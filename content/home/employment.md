@@ -47,7 +47,11 @@ subtitle = ""
  css_class = ""
 +++
 
-**[2019 -- present] MSI Fellow, Australian National University**
+**[2022 -- present] Lecturer, University of Sydney**
+
+* Continuing faculty member (equivalent of Assistant Professor in the US) in the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/).
+
+**[2019 -- 2022] MSI Fellow, Australian National University**
 
 * Fixed-term faculty member in the [Computational Mathematics](https://maths.anu.edu.au/research/groups/computational-mathematics) group of the [Mathematical Sciences Institute](https://maths.anu.edu.au).
 
