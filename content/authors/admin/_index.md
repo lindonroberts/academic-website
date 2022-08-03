@@ -71,7 +71,7 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Recent news:**
 
-- (Jul-22) I will be speaking about large-scale DFO at the ARC OPTIMA training centre seminar series. Details including Zoom information [here](https://optima.org.au/events/optima-seminar-series-27-jul-2022/).
+- (Jul-22) I will be speaking about large-scale DFO at the ARC OPTIMA training centre seminar series. Details including Zoom information [here](https://optima.org.au/events/optima-seminar-series-27-jul-2022/). Update: watch the recording [here](https://www.youtube.com/watch?v=fW7a0vVgatw).
 - (Jul-22) I am excited to have started a new position as a lecturer in the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/) at the [University of Sydney](https://www.sydney.edu.au/). 
 - (Jun-22) Our paper *Scalable Subspace Methods for Derivative-Free Nonlinear Least-Squares Optimization* with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (University of Oxford) has been published in Mathematical Programming. Read the paper [here](https://doi.org/10.1007/s10107-022-01836-1).
 - (Apr-22) New paper out, *Direct search based on probabilistic descent in reduced spaces* with [Clément Royer](https://www.lamsade.dauphine.fr/~croyer/) (Université Paris Dauphine-PSL), showing how using randomized subspaces can make direct search methods more efficient at scale. Read it [here](https://arxiv.org/abs/2204.01275).
