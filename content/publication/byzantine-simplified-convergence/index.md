@@ -1,25 +1,25 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Model-Based Derivative-Free Methods for Convex-Constrained Optimization"
-authors: [M. Hough, L. Roberts]
-date: 2021-11-11
+title: "A Simplified Convergence Theory for Byzantine Resilient Stochastic Gradient Descent"
+authors: [L. Roberts, E. Smyth]
+date: 2022-08-17
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-11-11T13:25:05+11:00
+publishDate: 2022-08-17T09:12:26+10:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "SIAM Journal on Optimization"
-publication_short: "SIAM J. Optim."
+publication: "EURO Journal on Computational Optimization"
+publication_short: "EURO J. Comp. Optim."
 
-abstract: "We present a model-based derivative-free method for optimization subject to general convex constraints, which we assume are unrelaxable and accessed only through a projection operator that is cheap to evaluate. We prove global convergence and a worst-case complexity of $O(\\epsilon^{−2})$ iterations and objective evaluations for nonconvex functions, matching results for the unconstrained case. We introduce new, weaker requirements on model accuracy compared to existing methods. As a result, suﬃciently accurate interpolation models can be constructed only using feasible points. We develop a comprehensive theory of interpolation set management in this regime for linear and composite linear models. We implement our approach for nonlinear least-squares problems and demonstrate strong practical performance compared to general-purpose solvers."
+abstract: "In distributed learning, a central server trains a model according to updates provided by nodes holding local data samples. In the presence of one or more malicious servers sending incorrect information (a Byzantine adversary), standard algorithms for model training such as stochastic gradient descent (SGD) fail to converge. In this paper, we present a simplified convergence theory for the generic Byzantine Resilient SGD method originally proposed by Blanchard et al. [NeurIPS 2017]. Compared to the existing analysis, we shown convergence to a stationary point in expectation under standard assumptions on the (possibly nonconvex) objective function and flexible assumptions on the stochastic gradients."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,8 +36,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_preprint: https://arxiv.org/abs/2111.05443
-url_code: https://github.com/numericalalgorithmsgroup/dfols
+url_pdf:
+url_code:
 url_dataset:
 url_poster:
 url_project:
