@@ -4,7 +4,7 @@
 title: "A Simplified Convergence Theory for Byzantine Resilient Stochastic Gradient Descent"
 authors: [L. Roberts, E. Smyth]
 date: 2022-08-17
-doi: ""
+doi: "10.1016/j.ejco.2022.100038"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-08-17T09:12:26+10:00
@@ -36,6 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
+# url_preprint: 
 url_pdf:
 url_code:
 url_dataset:
