@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://arxiv.org/abs/2204.01275
+url_preprint: https://arxiv.org/abs/2204.01275
 url_code: https://github.com/lindonroberts/directsearch
 url_dataset:
 url_poster:

@@ -4,7 +4,7 @@
 title: "Does Model Calibration Reduce Uncertainty in Climate Projections?"
 authors: [S. F. B. Tett, J. M. Gregory, N. Freychet, C. Cartis, M. J. Mineter, L. Roberts]
 date: 2021-06-04
-doi: ""
+doi: "10.1175/JCLI-D-21-0434.1"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-01-01
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://doi.org/10.1175/JCLI-D-21-0434.1
+#url_pdf: https://doi.org/10.1175/JCLI-D-21-0434.1
 url_code: https://github.com/SimonTett/Jclim21_calibrate
 url_dataset: https://doi.org/10.7488/ds/3051
 url_poster:
