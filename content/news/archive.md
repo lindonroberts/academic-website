@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+- (Sep-22) I will be speaking about large-scale DFO at the Curtin Centre for Optimisation and Decision Science Colloquium.
 - (Aug-22) New paper [*A Simplified Convergence Theory for Byzantine Resilient Stochastic Gradient Descent*](https://doi.org/10.1016/j.ejco.2022.100038) with Edward Smyth (Australian National University) has been accepted by the EURO Journal on Computational Optimization. We significantly simplify existing theory for distributed SGD in the presence of adversarial nodes. 
 - (Aug-22) Our paper [*Model-Based Derivative-Free Methods for Convex-Constrained Optimization*](http://arxiv.org/abs/2111.05443) with [Matthew Hough](https://www.math.uwaterloo.ca/~mhough/) (University of Waterloo) has been accepted by SIAM Journal on Optimization. Published version available soon!
 - (Jul-22) I will be speaking about large-scale DFO at the [ARC OPTIMA training centre seminar series](https://optima.org.au/events/optima-seminar-series-27-jul-2022/). Update: a recording of the talk is [available on YouTube](https://www.youtube.com/watch?v=fW7a0vVgatw).

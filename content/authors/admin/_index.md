@@ -71,6 +71,7 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Recent news:**
 
+- (Sep-22) I will be speaking about large-scale DFO at the Curtin Centre for Optimisation and Decision Science Colloquium.
 - (Aug-22) New paper [*A Simplified Convergence Theory for Byzantine Resilient Stochastic Gradient Descent*](https://doi.org/10.1016/j.ejco.2022.100038) with Edward Smyth (Australian National University) has been accepted by the EURO Journal on Computational Optimization. We significantly simplify existing theory for distributed SGD in the presence of adversarial nodes. 
 - (Aug-22) Our paper [*Model-Based Derivative-Free Methods for Convex-Constrained Optimization*](http://arxiv.org/abs/2111.05443) with [Matthew Hough](https://www.math.uwaterloo.ca/~mhough/) (University of Waterloo) has been accepted by SIAM Journal on Optimization. Published version available soon!
 - (Jul-22) I will be speaking about large-scale DFO at the [ARC OPTIMA training centre seminar series](https://optima.org.au/events/optima-seminar-series-27-jul-2022/). Update: a recording of the talk is [available on YouTube](https://www.youtube.com/watch?v=fW7a0vVgatw).
@@ -82,7 +83,6 @@ Details of my CV, publications, talks and software are below (or look at [Google
 - (Dec-21) I will be speaking about [convex-constrained DFO](http://arxiv.org/abs/2111.05443) at [WoMBaT](https://wombat.mocao.org/) and [AustMS 2021](https://austms.org.au/event/austms-2021/).
 - (Nov-21) I am lead organizer for the [Workshop on the Intersections of Computation and Optimisation](https://maths.anu.edu.au/news-events/events/workshop-intersections-computation-and-optimisations) on 22-25 November at ANU. This is the first such workshop, a new initiative of the AustMS special interest group [MoCaO](https://www.mocao.org/). 
 - (Nov-21) New paper out, [*Model-Based Derivative-Free Methods for Convex-Constrained Optimization*](http://arxiv.org/abs/2111.05443) with [Matthew Hough](https://www.math.uwaterloo.ca/~mhough/) (University of Waterloo), where we show how use interpolation in general convex sets to do model-based derivative-free optimization. You can now download the new version 1.3 of [DFO-LS](https://github.com/numericalalgorithmsgroup/dfols) which can now solve problems with general convex constraints!
-- (Oct-21) I will be speaking about large-scale DFO at the [INFORMS Annual Meeting](https://www.informs.org/Meetings-Conferences/INFORMS-Conference-Calendar/2021-INFORMS-Annual-Meeting), as well as organising two sessions on DFO.
 
 [News archive]({{< ref "news/archive.md" >}})
 
