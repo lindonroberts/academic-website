@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+- (Oct-22) New paper [*PyCUTEst: an open source Python package of optimization test problems*](https://doi.org/10.21105/joss.04377) with [Jaroslav Fowkes](https://www.scd.stfc.ac.uk/Pages/Fowkes,-Jaroslav.aspx) (Rutherford Appleton Laboratory) and [Árpád Bűrmen](https://www.fe.uni-lj.si/en/the_faculty/staff/associate_professors/55/) (University of Ljubljana) has been accepted by the Journal of Open Source Software. This is a short summary paper outlining the [PyCUTEst](https://github.com/jfowkes/pycutest) software package.
 - (Sep-22) I will be speaking about large-scale DFO at the Curtin Centre for Optimisation and Decision Science Colloquium.
 - (Aug-22) New paper [*A Simplified Convergence Theory for Byzantine Resilient Stochastic Gradient Descent*](https://doi.org/10.1016/j.ejco.2022.100038) with Edward Smyth (Australian National University) has been accepted by the EURO Journal on Computational Optimization. We significantly simplify existing theory for distributed SGD in the presence of adversarial nodes. 
 - (Aug-22) Our paper [*Model-Based Derivative-Free Methods for Convex-Constrained Optimization*](https://doi.org/10.1137/21M1460971) with [Matthew Hough](https://www.math.uwaterloo.ca/~mhough/) (University of Waterloo) has been accepted by SIAM Journal on Optimization. 

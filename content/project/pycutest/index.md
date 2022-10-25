@@ -28,7 +28,7 @@ image:
 #   icon: twitter
 
 url_code: "https://github.com/jfowkes/pycutest"
-url_pdf: ""
+url_pdf: "https://doi.org/10.21105/joss.04377"
 url_slides: ""
 url_video: ""
 
@@ -44,3 +44,4 @@ slides: ""
 
 PyCUTEst is based on the CUTEr wrapper by [Arpad Buermen](http://fides.fe.uni-lj.si/~arpadb/software-pycuter.html) and developed jointly with [Jaroslav Fowkes](http://people.maths.ox.ac.uk/fowkes).
 
+Please cite PyCUTEst by citing the associated [summary paper](https://doi.org/10.21105/joss.04377).
