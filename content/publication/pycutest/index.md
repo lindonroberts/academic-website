@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "PyCUTEst: an open source Python package of optimization test problems"
-authors: []
+authors: [J. Fowkes, L. Roberts, A. Bűrmen]
 date: 2022-10-25
 doi: "10.21105/joss.04377"
 
