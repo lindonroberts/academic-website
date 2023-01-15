@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+- (Jan-23) New paper [*Analyzing Inexact Hypergradients for Bilevel Learning*](https://arxiv.org/abs/2301.04764) with [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath). We look at how to efficiently compute the gradients for bilevel learning using both classical and modern techniques.
 - (Dec-22) I will be talking about efficient hypergradient evaluation for bilevel optimisation at the [AustMS Annual Meeting](https://conference.unsw.edu.au/en/austms2022). 
 - (Nov-22) I will be giving an overview of black-box optimisation techniques at the [Biarri Applied Mathematics Conference](https://bamconf.com/). My [slides are available here]({{< ref "talk/biarri2022/index.md" >}}).
 - (Nov-22) New paper [*On the selection of the weighting parameter value in optimizing Eucalyptus globulus pulp yield models based on NIR spectra*](https://doi.org/10.1007/s00226-022-01431-9) with [Yi Zhen](https://optima.org.au/staff/shiraz-zhen/) (University of Melbourne), and [Tu Ho](https://directory.forestry.oregonstate.edu/people/ho-tu), [Laurence Schimleck](https://directory.forestry.oregonstate.edu/people/schimleck-laurence) and [Arijit Sinha](https://cce.oregonstate.edu/node/532) (Oregon State University) has been accepted by Wood Science and Technology. We study how to select NIR wavelengths for predicting wood yield without overfitting.
