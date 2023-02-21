@@ -3,7 +3,7 @@
 
 title: "Optimizing illumination patterns for classical ghost imaging"
 authors: [A. M. Kingston, L. Roberts, A. Aminzadeh, D. Pelliccia, I. D. Svalbe, D. M. Paganin]
-date: 2022-11-10T11:32:42+11:00
+date: 2023-02-09
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,10 +13,10 @@ publishDate: 2022-11-09
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Physical Review A"
 publication_short: ""
 
 abstract: "Classical ghost imaging is a new paradigm in imaging where the image of an object is not measured directly with a pixelated detector. Rather, the object is subject to a set of illumination patterns and the total interaction of the object, e.g., reflected or transmitted photons or particles, is measured for each pattern with a single-pixel or bucket detector. An image of the object is then computed through the correlation of each pattern and the corresponding bucket value. Assuming no prior knowledge of the object, the set of patterns used to compute the ghost image dictates the image quality. In the visible-light regime, programmable spatial light modulators can generate the illumination patterns. In many other regimes -- such as x rays, electrons, and neutrons -- no such dynamically configurable modulators exist, and patterns are commonly produced by employing a transversely-translated mask. In this paper we explore some of the properties of masks or speckle that should be considered to maximize ghost-image quality, given a certain experimental classical ghost-imaging setup employing a transversely-displaced but otherwise non-configurable mask."

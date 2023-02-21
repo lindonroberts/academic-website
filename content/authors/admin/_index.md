@@ -71,6 +71,7 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Recent news:**
 
+- (Feb-23) Our paper [*Optimizing illumination patterns for classical ghost imaging*](https://arxiv.org/abs/2211.03792) with [Andrew Kingston](https://physics.anu.edu.au/contact/people/profile.php?ID=67) and [Alaleh Aminzadeh](https://physics.anu.edu.au/contact/people/profile.php?ID=2927) (ANU), [Daniele Pelliccia](https://www.idtools.com.au/about/) (Instruments and Data Tools Pty Ltd), [Imants Svalbe](https://research.monash.edu/en/persons/imants-svalbe) and [David Paganin](https://www.monash.edu/science/schools/physics/research/research-areas?a=64532) (Monash University) has been accepted by Physical Review A.
 - (Jan-23) New paper [*Analyzing Inexact Hypergradients for Bilevel Learning*](https://arxiv.org/abs/2301.04764) with [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath). We look at how to efficiently compute the gradients for bilevel learning using both classical and modern techniques.
 - (Dec-22) I will be talking about efficient hypergradient evaluation for bilevel optimisation at the [AustMS Annual Meeting](https://conference.unsw.edu.au/en/austms2022). 
 - (Nov-22) I will be giving an overview of black-box optimisation techniques at the [Biarri Applied Mathematics Conference](https://bamconf.com/). My [slides are available here]({{< ref "talk/biarri2022/index.md" >}}).
@@ -83,7 +84,6 @@ Details of my CV, publications, talks and software are below (or look at [Google
 - (Jul-22) I will be speaking about large-scale DFO at the [ARC OPTIMA training centre seminar series](https://optima.org.au/events/optima-seminar-series-27-jul-2022/). Update: a recording of the talk is [available on YouTube](https://www.youtube.com/watch?v=fW7a0vVgatw).
 - (Jul-22) I am excited to have started a new position as a lecturer in the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/) at the [University of Sydney](https://www.sydney.edu.au/). 
 - (Jun-22) Our paper [*Scalable Subspace Methods for Derivative-Free Nonlinear Least-Squares Optimization*](https://doi.org/10.1007/s10107-022-01836-1) with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (University of Oxford) has been published in Mathematical Programming. 
-- (Apr-22) New paper out, [*Direct search based on probabilistic descent in reduced spaces*](https://arxiv.org/abs/2204.01275) with [Clément Royer](https://www.lamsade.dauphine.fr/~croyer/) (Université Paris Dauphine-PSL), showing how using randomized subspaces can make direct search methods more efficient at scale. 
 
 [News archive]({{< ref "news/archive.md" >}})
 
