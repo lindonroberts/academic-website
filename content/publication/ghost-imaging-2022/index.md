@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Optimizing illumination patterns for classical ghost imaging"
-authors: [A. M. Kingston, L. Roberts, A. Aminzadeh, D. Pelliccia, I. D. Svalbe, D. M. Paganin]
-date: 2023-02-09
-doi: ""
+authors: [A. M. Kingston, A. Aminzadeh, L. Roberts, D. Pelliccia, I. D. Svalbe, D. M. Paganin]
+date: 2023-02-27
+doi: "10.1103/PhysRevA.107.023524"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-11-09
