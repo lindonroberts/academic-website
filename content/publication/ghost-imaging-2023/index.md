@@ -3,8 +3,8 @@
 
 title: "Mask design, fabrication, and experimental ghost imaging applications for patterned X-ray illumination"
 authors: [A. Aminzadeh, L. Roberts, B. Young, C. Chiang, I. D. Svalbe, D. M. Paganin, A. M. Kingston]
-date: 2023-05-09
-doi: ""
+date: 2023-07-10
+doi: "10.1364/OE.495024"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-05-10T19:22:40+10:00
@@ -13,13 +13,13 @@ publishDate: 2023-05-10T19:22:40+10:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Optics Express"
 publication_short: ""
 
-abstract: "A set of non-configurable transversely-displaced masks has been designed and fabricated to generate high-quality X-ray illumination patterns for use in imaging technique such as ghost imaging (GI), ghost projection, and speckle tracking. The designs include a range of random binary and orthogonal patterns, fabricated through a combination of photolithography and gold electroplating techniques. We experimentally demonstrated that a single wafer can be used as an illumination mask for GI, employing individual illumination patterns and also a mixture of patterns, using a laboratory X-ray source. The quality of the reconstructed X-ray ghost images have been characterized and evaluated through a range of metrics."
+abstract: "A set of non-configurable transversely-displaced masks has been designed and fabricated to generate high-quality X-ray illumination patterns for use in imaging techniques such as ghost imaging (GI), ghost projection, and speckle tracking. The designs include a range of random binary and orthogonal patterns, fabricated through a combination of photolithography and gold electroplating techniques. We experimentally demonstrated that a single wafer can be used as an illumination mask for GI, employing individual illumination patterns and also a mixture of patterns, using a laboratory X-ray source. The quality of the reconstructed X-ray ghost images has been characterized and evaluated through a range of metrics."
 
 # Summary. An optional shortened abstract.
 summary: ""
