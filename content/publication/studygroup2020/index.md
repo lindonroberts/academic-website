@@ -3,8 +3,8 @@
 
 title: "Furnace Vestibule Heat Transport Models"
 authors: [M. J. McGuinness, B. J. Cox, B. Kalyanaraman, K. B. Kiradjiev, R. Gonzalez-Farina, C. Z. W. Hassell Sweatman, L. Roberts, D. I. Pontin, E. J. Bissaker, S. K. Irvine, D. R. Jenkins, I. J. Taggart]
-date: 2021-07-11
-doi: ""
+date: 2023-02-08
+doi: "10.21914/anziamj.v62.16642"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2020-04-16T12:30:25+10:00
@@ -13,11 +13,11 @@ publishDate: 2020-04-16T12:30:25+10:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted"
-publication_short: "Submitted"
+publication: "ANZIAM Journal"
+publication_short: "ANZIAM J."
 
 abstract: "This is a report on the Lovells Springs challenge that was brought to the Mathematics in Industry Study Group in the University of Newcastle, Australia, in January 2020. The design of a furnace that heats steel rods to make them malleable and allow the reshaping of the rods into coiled springs is the challenge. Mathematical modelling of heat transport in the furnace vestibule predicts the effect of vestibule geometry on the temperature of rods entering the furnace, and provides guidelines for deciding on the dimensions of the vestibule for improved energy efficiency of heating. Models considered include treating the rods as equivalent steel sheets, and as discrete steel rods. The relative importance of radiative and convective heat transfer mechanisms is considered. A longer vestibule is recommended for improved heating efficiency."
 
