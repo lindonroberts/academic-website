@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+- (Oct-23) I will be an invited speaker at the first [SigmaOpt workshop](https://www.mathematics.org.au/sys/pages/plain.php?page_id=25&conf_id=61) associated with the ANZIAM meeting in February 2024. I am also on the judging panel for the best student paper prize which will be awarded at the workshop. 
+- (Oct-23) I gave a One School seminar (i.e. school colloquium) for the USyd School of Mathematics and Statistics.
 - (Sep-23) I will be speaking about large-scale DFO at the [Simons Collaboration on Hidden Symmetries and Fusion Energy](https://hiddensymmetries.princeton.edu/meetings/simons-hour-talks).
 - (Aug-23) Very excited to receive an [ARC Discovery Early Career Researcher Award](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) (2024-2026). See a short project description on the [ARC page of all funded projects](https://rms.arc.gov.au/RMS/Report/Download/Report/1b0c8b2e-7bb0-4f2d-8f52-ad207cfbb41d/252) or the [university news item](https://www.sydney.edu.au/news-opinion/news/2023/08/28/early-career-researchers-awarded-5-1m-funding.html).
 - (Aug-23) New paper [*Dynamic Bilevel Learning with Inexact Line Search*](https://arxiv.org/abs/2308.10098) with [Mohammad Sadegh Salehi](https://mohammadsadeghsalehi.github.io/), [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) and [Subhadip Mukherjee](https://sites.google.com/view/subhadip-mukherjee/home) (IIT Kharagpur). We introduce a linesearch algorithm suitable for bilevel learning based on conntrollable accuracy function and (hyper)gradient evaluations.

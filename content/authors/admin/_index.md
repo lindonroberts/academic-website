@@ -71,6 +71,8 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Recent news:**
 
+- (Oct-23) I will be an invited speaker at the first [SigmaOpt workshop](https://www.mathematics.org.au/sys/pages/plain.php?page_id=25&conf_id=61) associated with the ANZIAM meeting in February 2024. I am also on the judging panel for the best student paper prize which will be awarded at the workshop. 
+- (Oct-23) I gave a One School seminar (i.e. school colloquium) for the USyd School of Mathematics and Statistics.
 - (Sep-23) I will be speaking about large-scale DFO at the [Simons Collaboration on Hidden Symmetries and Fusion Energy](https://hiddensymmetries.princeton.edu/meetings/simons-hour-talks).
 - (Aug-23) Very excited to receive an [ARC Discovery Early Career Researcher Award](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) (2024-2026). See a short project description on the [ARC page of all funded projects](https://rms.arc.gov.au/RMS/Report/Download/Report/1b0c8b2e-7bb0-4f2d-8f52-ad207cfbb41d/252) or the [university news item](https://www.sydney.edu.au/news-opinion/news/2023/08/28/early-career-researchers-awarded-5-1m-funding.html).
 - (Aug-23) New paper [*Dynamic Bilevel Learning with Inexact Line Search*](https://arxiv.org/abs/2308.10098) with [Mohammad Sadegh Salehi](https://mohammadsadeghsalehi.github.io/), [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) and [Subhadip Mukherjee](https://sites.google.com/view/subhadip-mukherjee/home) (IIT Kharagpur). We introduce a linesearch algorithm suitable for bilevel learning based on conntrollable accuracy function and (hyper)gradient evaluations.
@@ -83,13 +85,12 @@ Details of my CV, publications, talks and software are below (or look at [Google
 - (Feb-23) Our paper [*Optimizing illumination patterns for classical ghost imaging*](https://dx.doi.org/10.1103/PhysRevA.107.023524) with [Andrew Kingston](https://physics.anu.edu.au/contact/people/profile.php?ID=67) and [Alaleh Aminzadeh](https://physics.anu.edu.au/contact/people/profile.php?ID=2927) (ANU), [Daniele Pelliccia](https://www.idtools.com.au/about/) (Instruments and Data Tools Pty Ltd), [Imants Svalbe](https://research.monash.edu/en/persons/imants-svalbe) and [David Paganin](https://www.monash.edu/science/schools/physics/research/research-areas?a=64532) (Monash University) has been accepted by Physical Review A.
 - (Jan-23) New paper [*Analyzing Inexact Hypergradients for Bilevel Learning*](https://arxiv.org/abs/2301.04764) with [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath). We look at how to efficiently compute the gradients for bilevel learning using both classical and modern techniques.
 - (Dec-22) I will be talking about efficient hypergradient evaluation for bilevel optimisation at the [AustMS Annual Meeting](https://conference.unsw.edu.au/en/austms2022). 
-- (Nov-22) I will be giving an overview of black-box optimisation techniques at the [Biarri Applied Mathematics Conference](https://bamconf.com/). My [slides are available here]({{< ref "talk/biarri2022/index.md" >}}).
-- (Nov-22) New paper [*On the selection of the weighting parameter value in optimizing Eucalyptus globulus pulp yield models based on NIR spectra*](https://doi.org/10.1007/s00226-022-01431-9) with [Yi Zhen](https://optima.org.au/staff/shiraz-zhen/) (University of Melbourne), and [Tu Ho](https://directory.forestry.oregonstate.edu/people/ho-tu), [Laurence Schimleck](https://directory.forestry.oregonstate.edu/people/schimleck-laurence) and [Arijit Sinha](https://cce.oregonstate.edu/node/532) (Oregon State University) has been accepted by Wood Science and Technology. We study how to select NIR wavelengths for predicting wood yield without overfitting.
 
 [News archive]({{< ref "news/archive.md" >}})
 
 **Awards:**
 
+- [ARC DECRA fellowship](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) (2024-2026).
 - [IMA Leslie Fox Prize for Numerical Analysis](https://ima.org.uk/awards-medals/ima-leslie-fox-prize-numerical-analysis/) (2021).
 - Reddick Prize, Mathematical Institute, University of Oxford (2020).
 - [Best paper award, *Mathematical Programming Computation*](https://www.springer.com/journal/12532/updates/17226372) (2019).
