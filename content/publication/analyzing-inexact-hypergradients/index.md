@@ -13,10 +13,10 @@ publishDate: 2023-01-16T09:23:49+11:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Submitted"
+publication: "IMA J. Appl. Math."
 publication_short: ""
 
 abstract: "Estimating hyperparameters has been a long-standing problem in machine learning. We consider the case where the task at hand is modeled as the solution to an optimization problem. Here the exact gradient with respect to the hyperparameters cannot be feasibly computed and approximate strategies are required. We introduce a unified framework for computing hypergradients that generalizes existing methods based on the implicit function theorem and automatic differentiation/backpropagation, showing that these two seemingly disparate approaches are actually tightly connected. Our framework is extremely flexible, allowing its subproblems to be solved with any suitable method, to any degree of accuracy. We derive a priori and computable a posteriori error bounds for all our methods, and numerically show that our a posteriori bounds are usually more accurate. Our numerical results also show that, surprisingly, for efficient bilevel optimization, the choice of hypergradient algorithm is at least as important as the choice of lower-level solver."

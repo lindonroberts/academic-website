@@ -28,6 +28,8 @@ image:
 projects: []
 ---
 
+- (Dec-23) I am a co-organiser of the joint [WOMBAT/WICO workshops](https://wombat.mocao.org/) on optimisation and computational maths, 11-15 December at the University of Sydney. 
+- (Nov-23) Our paper [*Analyzing Inexact Hypergradients for Bilevel Learning*](https://arxiv.org/abs/2301.04764) with [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) has been accepted by IMA Journal of Applied Mathematics. Link to follow soon.
 - (Oct-23) I will be an invited speaker at the first [SigmaOpt workshop](https://www.mathematics.org.au/sys/pages/plain.php?page_id=25&conf_id=61) associated with the ANZIAM meeting in February 2024. I am also on the judging panel for the best student paper prize which will be awarded at the workshop. 
 - (Oct-23) I gave a One School seminar (i.e. school colloquium) for the USyd School of Mathematics and Statistics.
 - (Sep-23) I will be speaking about large-scale DFO at the [Simons Collaboration on Hidden Symmetries and Fusion Energy](https://hiddensymmetries.princeton.edu/meetings/simons-hour-talks).
