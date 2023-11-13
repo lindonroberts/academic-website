@@ -3,8 +3,8 @@
 
 title: "Direct search based on probabilistic descent in reduced spaces"
 authors: [L. Roberts, C. W. Royer]
-date: 2023-08-02
-doi: ""
+date: 2023-11-10
+doi: "10.1137/22M1488569"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-04-05
