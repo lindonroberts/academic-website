@@ -3,8 +3,8 @@
 
 title: "Analyzing Inexact Hypergradients for Bilevel Learning"
 authors: [M. J. Ehrhardt, L. Roberts]
-date: 2023-01-11
-doi: ""
+date: 2023-11-30
+doi: "10.1093/imamat/hxad035"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-01-16T09:23:49+11:00
