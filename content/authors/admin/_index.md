@@ -71,7 +71,7 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Recent news:**
 
-- (Dec-23) I am a co-organiser of the joint [WOMBAT/WICO workshops](https://wombat.mocao.org/) on optimisation and computational maths, 11-15 December at the University of Sydney. 
+- (Dec-23) I am a co-organiser of the joint [WOMBAT/WICO workshops](https://wombat.mocao.org/) on optimisation and computational maths, 11-15 December at the University of Sydney. I am also speaking about [expected decrease analysis for random subspace methods](https://arxiv.org/abs/2308.04734).
 - (Nov-23) New paper [*Non-Uniform Smoothness for Gradient Descent*](https://arxiv.org/abs/2311.08615) with [Albert Berahas](https://aberahas.engin.umich.edu/) (University of Michigan) and [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/) (University of Queensland). We introduce a new local first-order smoothness oracle for automatic tuning of stepsizes for gradient descent.
 - (Nov-23) Our paper [*Analyzing Inexact Hypergradients for Bilevel Learning*](https://doi.org/10.1093/imamat/hxad035) with [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) has been accepted by IMA Journal of Applied Mathematics. 
 - (Nov-23) I am on the judging panel for the first SigmaOpt Student Best Paper Prize (for Australian students working in optimization), which will be presented at the [SigmaOpt workshop](https://www.mathematics.org.au/sys/pages/plain.php?page_id=25&conf_id=61) after ANZIAM 2024. See the workshop page for details.
