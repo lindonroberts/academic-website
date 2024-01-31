@@ -50,6 +50,7 @@ subtitle = ""
 
 **University of Sydney**
 
+* 2024 (Semester 1), Course convenor, [MATH4411 Applied Computational Mathematics](https://www.sydney.edu.au/units/MATH4411)
 * 2023 (Semester 2), Course convenor, [MATH2070/2970 Optimisation and Financial Mathematics](https://www.sydney.edu.au/units/MATH2070)
 * 2023 (Semester 1), Course convenor, [MATH3076/3976/4076 Mathematical Computing](https://www.sydney.edu.au/units/MATH3076)
 * 2022 (Semester 2), Course convenor, [FMAT3888 Projects in Financial Mathematics](https://www.sydney.edu.au/units/FMAT3888)
