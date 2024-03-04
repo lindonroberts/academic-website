@@ -28,7 +28,7 @@ image:
 projects: []
 ---
 
-- (Feb-23) Our paper [*Non-Uniform Smoothness for Gradient Descent*](https://arxiv.org/abs/2311.08615) with [Albert Berahas](https://aberahas.engin.umich.edu/) (University of Michigan) and [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/) (University of Queensland) has been accepted by Transactions on Machine Learning Research. Published version available soon.
+- (Feb-23) Our paper [*Non-Uniform Smoothness for Gradient Descent*](https://openreview.net/pdf?id=17ESEjETbP) with [Albert Berahas](https://aberahas.engin.umich.edu/) (University of Michigan) and [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/) (University of Queensland) has been accepted by Transactions on Machine Learning Research.
 - (Feb-23) I will be speaking about the paper [*Dynamic Bilevel Learning with Inexact Line Search*](https://arxiv.org/abs/2308.10098) as an invited speaker for the first [SigmaOpt workshop](https://www.mathematics.org.au/sys/pages/plain.php?page_id=25&conf_id=61).
 - (Jan-23) Happy to receive a [CNRS International Emerging Actions](https://international.cnrs.fr/en/actualite/appel-iea-2023/) grant with [Clément Royer](https://www.lamsade.dauphine.fr/~croyer/) (Université Paris Dauphine-PSL) to work on random subspace methods for DFO.
 - (Dec-23) I am a co-organiser of the joint [WOMBAT/WICO workshops](https://wombat.mocao.org/) on optimisation and computational maths, 11-15 December at the University of Sydney. I am also speaking about [expected decrease analysis for random subspace methods](https://arxiv.org/abs/2308.04734).

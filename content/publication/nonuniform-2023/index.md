@@ -3,7 +3,7 @@
 
 title: "Non-Uniform Smoothness for Gradient Descent"
 authors: [A. Berahas, L. Roberts, F. Roosta]
-date: 2023-11-16
+date: 2024-02-04
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,13 +13,13 @@ publishDate: 2023-11-17T12:39:34+11:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Trans. on Machine Learning Research"
 publication_short: ""
 
-abstract: "The analysis of gradient descent-type methods typically relies on the Lipschitz continuity of the objective gradient. This generally requires an expensive hyperparameter tuning process to appropriately calibrate a stepsize for a given problem. In this work we introduce a local first-order smoothness oracle (LFSO) which generalizes the Lipschitz continuous gradients smoothness condition and is applicable to any twice-differentiable function. We show that this oracle can encode all relevant problem information for tuning stepsizes for a suitably modified gradient descent method and give global and local convergence results. We also show that LFSOs in this modified first-order method can yield global linear convergence rates for non-strongly convex problems with extremely flat minima, and thus improve over the lower bound on rates achievable by general (accelerated) first-order methods."
+abstract: "The analysis of gradient descent-type methods typically relies on the Lipschitz continuity of the objective gradient. This generally requires an expensive hyperparameter tuning process to appropriately calibrate a stepsize for a given problem. In this work we introduce a local first-order smoothness oracle (LFSO) which generalizes the Lipschitz continuous gradients smoothness condition and is applicable to any twice-differentiable function. We show that this oracle can encode all relevant problem information for tuning stepsizes for a suitably modified gradient descent method and give global and local convergence results. We also show that LFSOs in this modified first-order method can yield global linear convergence rates for non-strongly convex problems with extremely flat minima."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,7 +37,7 @@ featured: false
 #   icon: twitter
 
 url_preprint: https://arxiv.org/abs/2311.08615
-url_pdf: 
+url_pdf: https://openreview.net/pdf?id=17ESEjETbP
 url_code:
 url_dataset:
 url_poster:
