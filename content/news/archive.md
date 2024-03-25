@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+- (Mar-23) New paper [*Model Construction for Convex-Constrained Derivative-Free Optimization*](https://arxiv.org/abs/2403.14960). This develops an approximation theory for quadratic interpolation in general convex-constrained sets, extending [earlier work on linear interpolation](https://doi.org/10.1137/21M1460971). 
 - (Feb-23) Our paper [*Non-Uniform Smoothness for Gradient Descent*](https://openreview.net/pdf?id=17ESEjETbP) with [Albert Berahas](https://aberahas.engin.umich.edu/) (University of Michigan) and [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/) (University of Queensland) has been accepted by Transactions on Machine Learning Research.
 - (Feb-23) I will be speaking about the paper [*Dynamic Bilevel Learning with Inexact Line Search*](https://arxiv.org/abs/2308.10098) as an invited speaker for the first [SigmaOpt workshop](https://www.mathematics.org.au/sys/pages/plain.php?page_id=25&conf_id=61).
 - (Jan-23) Happy to receive a [CNRS International Emerging Actions](https://international.cnrs.fr/en/actualite/appel-iea-2023/) grant with [Clément Royer](https://www.lamsade.dauphine.fr/~croyer/) (Université Paris Dauphine-PSL) to work on random subspace methods for DFO.
