@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Dynamic Bilevel Learning with Inexact Line Search"
+title: "An adaptively inexact first-order method for bilevel optimization with application to hyperparameter learning"
 authors: [M. S. Salehi, S. Mukherjee, L. Roberts, M. J. Ehrhardt]
-date: 2023-08-22
+date: 2024-04-10
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publication_types: ["3"]
 publication: ""
 publication_short: ""
 
-abstract: "In various domains within imaging and data science, particularly when addressing tasks modeled utilizing the variational regularization approach, manually configuring regularization parameters presents a formidable challenge. The difficulty intensifies when employing regularizers involving a large number of hyperparameters. To overcome this challenge, bilevel learning is employed to learn suitable hyperparameters. However, due to the use of numerical solvers, the exact gradient with respect to the hyperparameters is unattainable, necessitating the use of methods relying on approximate gradients. State-of-the-art inexact methods a priori select a decreasing summable sequence of the required accuracy and only assure convergence given a sufficiently small fixed step size. Despite this, challenges persist in determining the Lipschitz constant of the hypergradient and identifying an appropriate fixed step size. Conversely, computing exact function values is not feasible, impeding the use of line search. In this work, we introduce a provably convergent inexact backtracking line search involving inexact function evaluations and hypergradients. We show convergence to a stationary point of the loss with respect to hyperparameters. Additionally, we propose an algorithm to determine the required accuracy dynamically. Our numerical experiments demonstrate the efficiency and feasibility of our approach for hyperparameter estimation in variational regularization problems, alongside its robustness in terms of the initial accuracy and step size choices."
+abstract: "Various tasks in data science are modeled utilizing the variational regularization approach, where manually selecting regularization parameters presents a challenge. The difficulty gets exacerbated when employing regularizers involving a large number of hyperparameters. To overcome this challenge, bilevel learning can be employed to learn such parameters from data. However, neither exact function values nor exact gradients with respect to the hyperparameters are attainable, necessitating methods that only rely on inexact evaluation of such quantities. State-of-the-art inexact gradient-based methods a priori select a sequence of the required accuracies and cannot identify an appropriate step size since the Lipschitz constant of the hypergradient is unknown. In this work, we propose an algorithm with backtracking line search that only relies on inexact function evaluations and hypergradients and show convergence to a stationary point. Furthermore, the proposed algorithm determines the required accuracy dynamically rather than manually selected before running it. Our numerical experiments demonstrate the efficiency and feasibility of our approach for hyperparameter estimation on a range of relevant problems in imaging and data science such as total variation and field of experts denoising and multinomial logistic regression. Particularly, the results show that the algorithm is robust to its own hyperparameters such as the initial accuracies and step size."
 
 # Summary. An optional shortened abstract.
 summary: ""
