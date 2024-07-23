@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+- (Jul-24) New paper [*Black-box Optimization Algorithms for Regularized Least-squares Problems*](https://arxiv.org/abs/2407.14915) with [Yanjun Liu](https://yanjunliu-regina.github.io/) (Princeton University) and Kevin Lam (Australian National University). We introduce a DFO method for nonlinear least-squares problems with nonsmooth regularizers.
 - (Jun-24) I will be visiting [Clément Royer](https://www.lamsade.dauphine.fr/~croyer/) at the Université Paris Dauphine-PSL and then attending the [2nd Derivative-Free Optimization Symposium](https://sites.google.com/diag.uniroma1.it/dfos24/home) at the University of Padova.
 - (May-24) I will be hosting [Hung Phan](https://faculty.uml.edu/hung_phan/) (University of Massachusetts Lowell) as part of [SMRI's](https://mathematical-research-institute.sydney.edu.au/) International Visitor Program.
 - (Apr-24) Significant new revisions to an earlier preprint, now titled [*An adaptively inexact first-order method for bilevel optimization with application to hyperparameter learning*](https://arxiv.org/abs/2308.10098), are now available. This is joint work with [Mohammad Sadegh Salehi](https://mohammadsadeghsalehi.github.io/), [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) and [Subhadip Mukherjee](https://sites.google.com/view/subhadip-mukherjee/home) (IIT Kharagpur).

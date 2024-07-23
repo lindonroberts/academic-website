@@ -71,6 +71,7 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Recent news:**
 
+- (Jul-24) New paper [*Black-box Optimization Algorithms for Regularized Least-squares Problems*](https://arxiv.org/abs/2407.14915) with [Yanjun Liu](https://yanjunliu-regina.github.io/) (Princeton University) and Kevin Lam (Australian National University). We introduce a DFO method for nonlinear least-squares problems with nonsmooth regularizers.
 - (Jun-24) I will be visiting [Clément Royer](https://www.lamsade.dauphine.fr/~croyer/) at the Université Paris Dauphine-PSL and then attending the [2nd Derivative-Free Optimization Symposium](https://sites.google.com/diag.uniroma1.it/dfos24/home) at the University of Padova.
 - (May-24) I will be hosting [Hung Phan](https://faculty.uml.edu/hung_phan/) (University of Massachusetts Lowell) as part of [SMRI's](https://mathematical-research-institute.sydney.edu.au/) International Visitor Program.
 - (Apr-24) Significant new revisions to an earlier preprint, now titled [*An adaptively inexact first-order method for bilevel optimization with application to hyperparameter learning*](https://arxiv.org/abs/2308.10098), are now available. This is joint work with [Mohammad Sadegh Salehi](https://mohammadsadeghsalehi.github.io/), [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) and [Subhadip Mukherjee](https://sites.google.com/view/subhadip-mukherjee/home) (IIT Kharagpur).
@@ -84,7 +85,6 @@ Details of my CV, publications, talks and software are below (or look at [Google
 - (Nov-23) Our paper [*Analyzing Inexact Hypergradients for Bilevel Learning*](https://doi.org/10.1093/imamat/hxad035) with [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) has been accepted by IMA Journal of Applied Mathematics. 
 - (Nov-23) I am on the judging panel for the first SigmaOpt Student Best Paper Prize (for Australian students working in optimization), which will be presented at the [SigmaOpt workshop](https://www.mathematics.org.au/sys/pages/plain.php?page_id=25&conf_id=61) after ANZIAM 2024. See the workshop page for details.
 - (Oct-23) I will be an invited speaker at the first [SigmaOpt workshop](https://www.mathematics.org.au/sys/pages/plain.php?page_id=25&conf_id=61) associated with the ANZIAM meeting in February 2024. I am also on the judging panel for the best student paper prize which will be awarded at the workshop. 
-- (Oct-23) I gave a One School seminar (i.e. school colloquium) for the USyd School of Mathematics and Statistics.
 
 [News archive]({{< ref "news/archive.md" >}})
 
