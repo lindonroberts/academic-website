@@ -71,6 +71,7 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Recent news:**
 
+- (Aug-24) Our paper [*Expected decrease for derivative-free algorithms using random subspaces*](https://doi.org/10.1090/mcom/4011) with [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/) (University of British Columbia) and [Clément Royer](https://www.lamsade.dauphine.fr/~croyer/) (Université Paris Dauphine-PSL) has been accepted by Mathematics of Computation.
 - (Jul-24) New paper [*Black-box Optimization Algorithms for Regularized Least-squares Problems*](https://arxiv.org/abs/2407.14915) with [Yanjun Liu](https://yanjunliu-regina.github.io/) (Princeton University) and Kevin Lam (Australian National University). We introduce a DFO method for nonlinear least-squares problems with nonsmooth regularizers.
 - (Jun-24) I will be visiting [Clément Royer](https://www.lamsade.dauphine.fr/~croyer/) at the Université Paris Dauphine-PSL and then attending the [2nd Derivative-Free Optimization Symposium](https://sites.google.com/diag.uniroma1.it/dfos24/home) at the University of Padova.
 - (May-24) I will be hosting [Hung Phan](https://faculty.uml.edu/hung_phan/) (University of Massachusetts Lowell) as part of [SMRI's](https://mathematical-research-institute.sydney.edu.au/) International Visitor Program.
@@ -84,7 +85,6 @@ Details of my CV, publications, talks and software are below (or look at [Google
 - (Nov-23) New paper [*Non-Uniform Smoothness for Gradient Descent*](https://arxiv.org/abs/2311.08615) with [Albert Berahas](https://aberahas.engin.umich.edu/) (University of Michigan) and [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/) (University of Queensland). We introduce a new local first-order smoothness oracle for automatic tuning of stepsizes for gradient descent.
 - (Nov-23) Our paper [*Analyzing Inexact Hypergradients for Bilevel Learning*](https://doi.org/10.1093/imamat/hxad035) with [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) has been accepted by IMA Journal of Applied Mathematics. 
 - (Nov-23) I am on the judging panel for the first SigmaOpt Student Best Paper Prize (for Australian students working in optimization), which will be presented at the [SigmaOpt workshop](https://www.mathematics.org.au/sys/pages/plain.php?page_id=25&conf_id=61) after ANZIAM 2024. See the workshop page for details.
-- (Oct-23) I will be an invited speaker at the first [SigmaOpt workshop](https://www.mathematics.org.au/sys/pages/plain.php?page_id=25&conf_id=61) associated with the ANZIAM meeting in February 2024. I am also on the judging panel for the best student paper prize which will be awarded at the workshop. 
 
 [News archive]({{< ref "news/archive.md" >}})
 

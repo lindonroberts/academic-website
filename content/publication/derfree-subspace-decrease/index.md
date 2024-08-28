@@ -3,8 +3,8 @@
 
 title: "Expected decrease for derivative-free algorithms using random subspaces"
 authors: [W. Hare, L. Roberts, C. W. Royer]
-date: 2023-08-10
-doi: ""
+date: 2024-08-23
+doi: "10.1090/mcom/4011"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2023-08-10T12:12:14+10:00
@@ -13,10 +13,10 @@ publishDate: 2023-08-10T12:12:14+10:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "Mathematics of Computation"
 publication_short: ""
 
 abstract: "Derivative-free algorithms seek the minimum of a given function based only on function values queried at appropriate points. Although these methods are widely used in practice, their performance is known to worsen as the problem dimension increases. Recent advances in developing randomized derivative-free techniques have tackled this issue by working in low-dimensional subspaces that are drawn at random in an iterative fashion. The connection between the dimension of these random subspaces and the algorithmic guarantees has yet to be fully understood. In this paper, we develop an analysis for derivative-free algorithms (both direct-search and model-based approaches) employing random subspaces. Our results leverage linear local approximations of smooth functions to obtain understanding of the expected decrease achieved per function evaluation. Although the quantities of interest involve multidimensional integrals with no closed-form expression, a relative comparison for different subspace dimensions suggest that low dimension is preferable. Numerical computation of the quantities of interest confirm the benefit of operating in low-dimensional subspaces."
