@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Analyzing Inexact Hypgergradients for Bilevel Learning"
+title: "Analyzing Inexact Hypgergradients for Bilevel Learning [slides available]"
 event: SIAM OP23
 event_url: https://www.siam.org/conferences/cm/conference/op23
 location: Seattle
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: roberts_siopt.pdf
 
 url_code:
 url_pdf:
