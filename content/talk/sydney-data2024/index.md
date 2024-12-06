@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "An adaptively inexact first-order method for bilevel optimization with application to hyperparameter learning"
+title: "An adaptively inexact first-order method for bilevel optimization with application to hyperparameter learning [slides available]"
 event: Sydney Workshop on Mathematics of Data Science
 event_url: https://www.maths.usyd.edu.au/u/USYD-MDSworkshop/
 location: University of Sydney
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: roberts_data_science_workshop.pdf
 
 url_code:
 url_pdf:

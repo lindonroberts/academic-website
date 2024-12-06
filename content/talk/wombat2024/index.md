@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Model Construction for Convex-Constrained Derivative-Free Optimization"
+title: "Model Construction for Convex-Constrained Derivative-Free Optimization [slides available]"
 event: WOMBAT 2024
 event_url: https://wombat.mocao.org/
 location: University of Sydney
@@ -46,7 +46,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: roberts_wombat.pdf
 
 url_code:
 url_pdf:
