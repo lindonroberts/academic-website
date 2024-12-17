@@ -71,6 +71,7 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Recent news:**
 
+- (Dec-24) New paper [*Bilevel Learning with Inexact Stochastic Gradients*](https://arxiv.org/abs/2412.12049) with [Mohammad Sadegh Salehi](https://mohammadsadeghsalehi.github.io/), [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) and [Subhadip Mukherjee](https://sites.google.com/view/subhadip-mukherjee/home) (IIT Kharagpur). We show how the theory of biased SGD can be applied to bilevel learning with inexact hypergradients.
 - (Dec-24) I will be presenting on [convex-constrained derivative-free optimization](https://arxiv.org/abs/2403.14960) at [WOMBAT 2024](https://wombat.mocao.org/) and [adaptive bilevel learning](https://arxiv.org/abs/2308.10098) at the [Sydney Workshop on the Mathematics of Data Science](https://www.maths.usyd.edu.au/u/USYD-MDSworkshop/), both running at the University of Sydney.
 - (Nov-24) Excited to receive an Australian Research Council [Discovery Project 2025](https://www.arc.gov.au/funding-research/grant-announcement-kits/discovery-projects-2025) grant for the project *Next Generation Newton-type Methods with Minimum Residual Solver*, with [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/) (University of Queensland), [Andre Milzarek](https://sds.cuhk.edu.cn/en/teacher/64) (Chinese University of Hong Kong, Shenzhen) and [Steve Wright](https://wrightstephen.github.io/sw_proj/) (University of Wisconsin-Madison).
 - (Oct-24) New paper [*High-resolution x-ray scanning with a diffuse, Huffman-patterned probe to minimise radiation damage*](https://arxiv.org/abs/2410.18348) with [Alaleh Aminzadeh](https://physics.anu.edu.au/contact/people/profile.php?ID=2927) and [Andrew Kingston](https://physics.anu.edu.au/contact/people/profile.php?ID=67) (ANU), and
@@ -85,7 +86,6 @@ Details of my CV, publications, talks and software are below (or look at [Google
 - (Feb-24) Hosted [Shane Henderson](https://people.orie.cornell.edu/shane/) (Cornell University) as part of [SMRI's](https://mathematical-research-institute.sydney.edu.au/) International Visitor Program.
 - (Feb-24) Our paper [*Non-Uniform Smoothness for Gradient Descent*](https://openreview.net/pdf?id=17ESEjETbP) with [Albert Berahas](https://aberahas.engin.umich.edu/) (University of Michigan) and [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/) (University of Queensland) has been accepted by Transactions on Machine Learning Research.
 - (Feb-24) I will be speaking about the paper [*Dynamic Bilevel Learning with Inexact Line Search*](https://arxiv.org/abs/2308.10098) as an invited speaker for the first [SigmaOpt workshop](https://www.mathematics.org.au/sys/pages/plain.php?page_id=25&conf_id=61).
-- (Jan-24) Happy to receive a [CNRS International Emerging Actions](https://international.cnrs.fr/en/actualite/appel-iea-2023/) grant with [Clément Royer](https://www.lamsade.dauphine.fr/~croyer/) (Université Paris Dauphine-PSL) to work on random subspace methods for DFO.
 
 [News archive]({{< ref "news/archive.md" >}})
 
