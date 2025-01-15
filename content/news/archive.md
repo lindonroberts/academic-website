@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+- (Jan-25) My paper [*Model Construction for Convex-Constrained Derivative-Free Optimization*](https://arxiv.org/abs/2403.14960) has been accepted by SIAM Journal on Optimization (available soon).
 - (Jan-25) New paper [*Projected proximal gradient trust-region algorithm for nonsmooth optimization*](https://arxiv.org/abs/2501.04889) with [Minh Dao](https://sites.google.com/site/daonminh/) (RMIT University) and [Hung Phan](https://faculty.uml.edu/hung_phan/) (University of Massachusetts Lowell). We develop some new worst-case complexity theory and novel subproblem solver for trust-region methods with nonsmooth regularizers.
 - (Dec-24) New paper [*Randomized Subspace Derivative-Free Optimization with Quadratic Models and Second-Order Convergence*](https://arxiv.org/abs/2412.14431) with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (University of Oxford). We extend the theory of random subspace derivative-free optimization to include second-order complexity and develop a practical algorithm based on quadratic interpolation models.
 - (Dec-24) New paper [*Bilevel Learning with Inexact Stochastic Gradients*](https://arxiv.org/abs/2412.12049) with [Mohammad Sadegh Salehi](https://mohammadsadeghsalehi.github.io/), [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) and [Subhadip Mukherjee](https://sites.google.com/view/subhadip-mukherjee/home) (IIT Kharagpur). We show how the theory of biased SGD can be applied to bilevel learning with inexact hypergradients.

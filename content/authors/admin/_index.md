@@ -71,6 +71,7 @@ Details of my CV, publications, talks and software are below (or look at [Google
 
 **Recent news:**
 
+- (Jan-25) My paper [*Model Construction for Convex-Constrained Derivative-Free Optimization*](https://arxiv.org/abs/2403.14960) has been accepted by SIAM Journal on Optimization (available soon).
 - (Jan-25) New paper [*Projected proximal gradient trust-region algorithm for nonsmooth optimization*](https://arxiv.org/abs/2501.04889) with [Minh Dao](https://sites.google.com/site/daonminh/) (RMIT University) and [Hung Phan](https://faculty.uml.edu/hung_phan/) (University of Massachusetts Lowell). We develop some new worst-case complexity theory and novel subproblem solver for trust-region methods with nonsmooth regularizers.
 - (Dec-24) New paper [*Randomized Subspace Derivative-Free Optimization with Quadratic Models and Second-Order Convergence*](https://arxiv.org/abs/2412.14431) with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (University of Oxford). We extend the theory of random subspace derivative-free optimization to include second-order complexity and develop a practical algorithm based on quadratic interpolation models.
 - (Dec-24) New paper [*Bilevel Learning with Inexact Stochastic Gradients*](https://arxiv.org/abs/2412.12049) with [Mohammad Sadegh Salehi](https://mohammadsadeghsalehi.github.io/), [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) and [Subhadip Mukherjee](https://sites.google.com/view/subhadip-mukherjee/home) (IIT Kharagpur). We show how the theory of biased SGD can be applied to bilevel learning with inexact hypergradients.
@@ -79,7 +80,6 @@ Details of my CV, publications, talks and software are below (or look at [Google
 - (Oct-24) New paper [*High-resolution x-ray scanning with a diffuse, Huffman-patterned probe to minimise radiation damage*](https://arxiv.org/abs/2410.18348) with [Alaleh Aminzadeh](https://physics.anu.edu.au/contact/people/profile.php?ID=2927) and [Andrew Kingston](https://physics.anu.edu.au/contact/people/profile.php?ID=67) (ANU), and
 [David Paganin](https://www.monash.edu/science/schools/physics/research/research-areas?a=64532), [Tim Petersen](https://research.monash.edu/en/persons/timothy-petersen) and [Imants Svalbe](https://monash.academia.edu/ImantsSvalbe)  (Monash University). We demonstrate how to computationally construct aperiodic masks for ghost imaging and show their practical experimental performance.
 - (Sep-24) I will be talking about randomized subspace derivative-free optimization algorithms at the [UNSW Applied Mathematics Seminar](https://www.unsw.edu.au/science/our-schools/maths/engage-with-us/seminars/2024/Randomised-Subspace-Methods-for-Scalable-Derivative-Free-Optimisation). 
-- (Aug-24) Our paper [*Expected decrease for derivative-free algorithms using random subspaces*](https://doi.org/10.1090/mcom/4011) with [Warren Hare](https://cmps.ok.ubc.ca/about/contact/warren-hare/) (University of British Columbia) and [Clément Royer](https://www.lamsade.dauphine.fr/~croyer/) (Université Paris Dauphine-PSL) has been accepted by Mathematics of Computation.
 
 [Click here for older news]({{< ref "news/archive.md" >}})
 
