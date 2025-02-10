@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+- (Feb-25) I received a 2024 meritorious service award for the journal *Mathematical Programming*, given by the editorial board to "the referees who have demonstrated exceptional diligence in their service to the journal".
 - (Jan-25) Milestone reached! My open-source Python software packages have been installed over 1 million times from PyPI, according to [pepy.tech](https://pepy.tech/). The most popular packages are [Py-BOBYQA](https://github.com/numericalalgorithmsgroup/pybobyqa/), [DFO-LS](https://github.com/numericalalgorithmsgroup/dfols) and [directsearch](https://github.com/lindonroberts/directsearch). 
 - (Jan-25) My paper [*Model Construction for Convex-Constrained Derivative-Free Optimization*](https://arxiv.org/abs/2403.14960) has been accepted by SIAM Journal on Optimization (available soon).
 - (Jan-25) New paper [*Projected proximal gradient trust-region algorithm for nonsmooth optimization*](https://arxiv.org/abs/2501.04889) with [Minh Dao](https://sites.google.com/site/daonminh/) (RMIT University) and [Hung Phan](https://faculty.uml.edu/hung_phan/) (University of Massachusetts Lowell). We develop some new worst-case complexity theory and novel subproblem solver for trust-region methods with nonsmooth regularizers.
