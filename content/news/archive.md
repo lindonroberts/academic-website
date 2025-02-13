@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+- (Feb-25) I am now an Associate Investigator for [OPTIMA](https://optima.org.au/), an ARC Industrial Transformation Training Centre focused on optimisation and operations research. 
 - (Feb-25) I received a 2024 meritorious service award for the journal *Mathematical Programming*, given by the editorial board to "the referees who have demonstrated exceptional diligence in their service to the journal".
 - (Jan-25) Milestone reached! My open-source Python software packages have been installed over 1 million times from PyPI, according to [pepy.tech](https://pepy.tech/). The most popular packages are [Py-BOBYQA](https://github.com/numericalalgorithmsgroup/pybobyqa/), [DFO-LS](https://github.com/numericalalgorithmsgroup/dfols) and [directsearch](https://github.com/lindonroberts/directsearch). 
 - (Jan-25) My paper [*Model Construction for Convex-Constrained Derivative-Free Optimization*](https://arxiv.org/abs/2403.14960) has been accepted by SIAM Journal on Optimization (available soon).

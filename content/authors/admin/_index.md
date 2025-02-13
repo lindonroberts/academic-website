@@ -65,12 +65,14 @@ email: "lindon.roberts@sydney.edu.au"
 #- Visitors
 ---
 
-I am a lecturer and ARC DECRA Fellow at the School of Mathematics and Statistics, University of Sydney. My research interests are in numerical analysis and data science, particularly nonconvex and derivative-free optimization. 
+I am a lecturer and [ARC DECRA Fellow](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) at the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/), University of Sydney. My research interests are in numerical analysis and data science, particularly nonconvex and derivative-free optimization. 
+I am also an Associate Investigator for [OPTIMA](https://optima.org.au/).
 
 Details of my CV, publications, talks and software are below (or look at [Google Scholar](https://scholar.google.co.uk/citations?user=s8Xj5BgAAAAJ) and [Github](https://github.com/lindonroberts)). For general optimization resources, see below or my [nonlinear optimization resources](opt/) page.
 
 **Recent news:**
 
+- (Feb-25) I am now an Associate Investigator for [OPTIMA](https://optima.org.au/), an ARC Industrial Transformation Training Centre focused on optimisation and operations research. 
 - (Feb-25) I received a 2024 meritorious service award for the journal *Mathematical Programming*, given by the editorial board to "the referees who have demonstrated exceptional diligence in their service to the journal".
 - (Jan-25) Milestone reached! My open-source Python software packages have been installed over 1 million times from PyPI, according to [pepy.tech](https://pepy.tech/). The most popular packages are [Py-BOBYQA](https://github.com/numericalalgorithmsgroup/pybobyqa/), [DFO-LS](https://github.com/numericalalgorithmsgroup/dfols) and [directsearch](https://github.com/lindonroberts/directsearch). 
 - (Jan-25) My paper [*Model Construction for Convex-Constrained Derivative-Free Optimization*](https://arxiv.org/abs/2403.14960) has been accepted by SIAM Journal on Optimization (available soon).
@@ -78,7 +80,6 @@ Details of my CV, publications, talks and software are below (or look at [Google
 - (Dec-24) New paper [*Randomized Subspace Derivative-Free Optimization with Quadratic Models and Second-Order Convergence*](https://arxiv.org/abs/2412.14431) with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (University of Oxford). We extend the theory of random subspace derivative-free optimization to include second-order complexity and develop a practical algorithm based on quadratic interpolation models.
 - (Dec-24) New paper [*Bilevel Learning with Inexact Stochastic Gradients*](https://arxiv.org/abs/2412.12049) with [Mohammad Sadegh Salehi](https://mohammadsadeghsalehi.github.io/), [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) and [Subhadip Mukherjee](https://sites.google.com/view/subhadip-mukherjee/home) (IIT Kharagpur). We show how the theory of biased SGD can be applied to bilevel learning with inexact hypergradients.
 - (Dec-24) I will be presenting on [convex-constrained derivative-free optimization](https://arxiv.org/abs/2403.14960) at [WOMBAT 2024](https://wombat.mocao.org/) and [adaptive bilevel learning](https://arxiv.org/abs/2308.10098) at the [Sydney Workshop on the Mathematics of Data Science](https://www.maths.usyd.edu.au/u/USYD-MDSworkshop/), both running at the University of Sydney.
-- (Nov-24) Excited to receive an Australian Research Council [Discovery Project 2025](https://www.arc.gov.au/funding-research/grant-announcement-kits/discovery-projects-2025) grant for the project *Next Generation Newton-type Methods with Minimum Residual Solver*, with [Fred Roosta](https://people.smp.uq.edu.au/FredRoosta/) (University of Queensland), [Andre Milzarek](https://sds.cuhk.edu.cn/en/teacher/64) (Chinese University of Hong Kong, Shenzhen) and [Steve Wright](https://wrightstephen.github.io/sw_proj/) (University of Wisconsin-Madison).
 
 [Click here for older news]({{< ref "news/archive.md" >}})
 
