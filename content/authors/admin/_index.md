@@ -68,10 +68,14 @@ email: "lindon.roberts@sydney.edu.au"
 I am a lecturer and [ARC DECRA Fellow](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) at the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/), University of Sydney. My research interests are in numerical analysis and data science, particularly nonconvex and derivative-free optimization. 
 I am also an Associate Investigator for [OPTIMA](https://optima.org.au/).
 
+**In July 2025, I will be joining the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/) at the University of Melbourne as a Senior Lecturer in Data Science.**
+
 Details of my CV, publications, talks and software are below (or look at [Google Scholar](https://scholar.google.co.uk/citations?user=s8Xj5BgAAAAJ) and [Github](https://github.com/lindonroberts)). For general optimization resources, see below or my [nonlinear optimization resources](opt/) page.
 
 **Recent news:**
 
+- (Mar-25) Our paper [*High-resolution x-ray scanning with a diffuse, Huffman-patterned probe to minimise radiation damage*](https://arxiv.org/abs/2410.18348) with [Alaleh Aminzadeh](https://physics.anu.edu.au/contact/people/profile.php?ID=2927) and [Andrew Kingston](https://physics.anu.edu.au/contact/people/profile.php?ID=67) (ANU), and
+[David Paganin](https://www.monash.edu/science/schools/physics/research/research-areas?a=64532), [Tim Petersen](https://research.monash.edu/en/persons/timothy-petersen) and [Imants Svalbe](https://monash.academia.edu/ImantsSvalbe) (Monash University) has been accepted to the Journal of Synchotron Radiation (available soon).
 - (Feb-25) I am now an Associate Investigator for [OPTIMA](https://optima.org.au/), an ARC Industrial Transformation Training Centre focused on optimisation and operations research. 
 - (Feb-25) I received a 2024 meritorious service award for the journal *Mathematical Programming*, given by the editorial board to "the referees who have demonstrated exceptional diligence in their service to the journal".
 - (Jan-25) Milestone reached! My open-source Python software packages have been installed over 1 million times from PyPI, according to [pepy.tech](https://pepy.tech/). The most popular packages are [Py-BOBYQA](https://github.com/numericalalgorithmsgroup/pybobyqa/), [DFO-LS](https://github.com/numericalalgorithmsgroup/dfols) and [directsearch](https://github.com/lindonroberts/directsearch). 
@@ -79,7 +83,6 @@ Details of my CV, publications, talks and software are below (or look at [Google
 - (Jan-25) New paper [*Projected proximal gradient trust-region algorithm for nonsmooth optimization*](https://arxiv.org/abs/2501.04889) with [Minh Dao](https://sites.google.com/site/daonminh/) (RMIT University) and [Hung Phan](https://faculty.uml.edu/hung_phan/) (University of Massachusetts Lowell). We develop some new worst-case complexity theory and novel subproblem solver for trust-region methods with nonsmooth regularizers.
 - (Dec-24) New paper [*Randomized Subspace Derivative-Free Optimization with Quadratic Models and Second-Order Convergence*](https://arxiv.org/abs/2412.14431) with [Coralia Cartis](http://people.maths.ox.ac.uk/cartis/) (University of Oxford). We extend the theory of random subspace derivative-free optimization to include second-order complexity and develop a practical algorithm based on quadratic interpolation models.
 - (Dec-24) New paper [*Bilevel Learning with Inexact Stochastic Gradients*](https://arxiv.org/abs/2412.12049) with [Mohammad Sadegh Salehi](https://mohammadsadeghsalehi.github.io/), [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) and [Subhadip Mukherjee](https://sites.google.com/view/subhadip-mukherjee/home) (IIT Kharagpur). We show how the theory of biased SGD can be applied to bilevel learning with inexact hypergradients.
-- (Dec-24) I will be presenting on [convex-constrained derivative-free optimization](https://arxiv.org/abs/2403.14960) at [WOMBAT 2024](https://wombat.mocao.org/) and [adaptive bilevel learning](https://arxiv.org/abs/2308.10098) at the [Sydney Workshop on the Mathematics of Data Science](https://www.maths.usyd.edu.au/u/USYD-MDSworkshop/), both running at the University of Sydney.
 
 [Click here for older news]({{< ref "news/archive.md" >}})
 

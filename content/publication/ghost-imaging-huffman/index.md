@@ -3,7 +3,7 @@
 
 title: "High-resolution x-ray scanning with a diffuse, Huffman-patterned probe to minimise radiation damage"
 authors: [A. Aminzadeh, A. M. Kingston, L. Roberts, D. M. Paganin, T. C. Petersen, I. D. Svalbe]
-date: 2024-10-25
+date: 2025-03-06
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,10 +13,10 @@ publishDate: 2024-10-25T14:34:48+11:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "J. Synchrotron Radiation"
 publication_short: ""
 
 abstract: "Scanning objects with a more tightly focused beam (for example of photons or electrons) can provide higher-resolution images. However the stronger localisation of energy deposition can damage tissues in organic samples or may rearrange the chemical structure or physical properties of inorganic materials. Scanning an object with a broad beam can deliver an equivalent probe energy but spreads it over a much wider footprint. Sharp images can be reconstructed from the diffuse implanted signal when a decoding step can recover a delta-like impulse response. Huffman sequences, by design, have the optimal delta-like autocorrelation for aperiodic (non-cyclic) convolution and are well-conditioned. Here we adapt 1D Huffman sequences to design 2D Huffman-like discrete arrays that have spatially broad, relatively thin and uniform intensity profiles that retain excellent aperiodic autocorrelation metrics. Examples of broad shaped diffuse beams were developed for the case of x-ray imaging. A variety of masks were fabricated by the deposition of finely structured layers of tantalum on a silicon oxide wafer. The layers form a pattern of discrete pixels that modify the shape of an incident uniform beam of low energy x-rays as it passes through the mask. The intensity profiles of the x-ray beams after transmission through these masks were validated, first by acquiring direct-detector x-ray images of the masks, and second by raster scanning a pinhole over each mask pattern, pixel-by-pixel, collecting 'bucket' signals as applied in traditional ghost imaging. The masks were then used to raster scan the shaped x-ray beam over several simple binary and 'gray' test objects, again producing bucket signals, from which sharp reconstructed object images were obtained by deconvolving their bucket images."
