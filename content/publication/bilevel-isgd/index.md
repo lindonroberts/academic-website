@@ -3,7 +3,7 @@
 
 title: "Bilevel Learning with Inexact Stochastic Gradients"
 authors: [M. S. Salehi, S. Mukherjee, L. Roberts, M. J. Ehrhardt]
-date: 2024-12-16
+date: 2025-03-07
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,10 +13,10 @@ publishDate: 2024-12-18T09:21:47+11:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "SSVM 2025"
 publication_short: ""
 
 abstract: "Bilevel learning has gained prominence in machine learning, inverse problems, and imaging applications, including hyperparameter optimization, learning data-adaptive regularizers, and optimizing forward operators. The large-scale nature of these problems has led to the development of inexact and computationally efficient methods. Existing adaptive methods predominantly rely on deterministic formulations, while stochastic approaches often adopt a doubly-stochastic framework with impractical variance assumptions, enforces a fixed number of lower-level iterations, and requires extensive tuning. In this work, we focus on bilevel learning with strongly convex lower-level problems and a nonconvex sum-of-functions in the upper-level. Stochasticity arises from data sampling in the upper-level which leads to inexact stochastic hypergradients. We establish their connection to state-of-the-art stochastic optimization theory for nonconvex objectives. Furthermore, we prove the convergence of inexact stochastic bilevel optimization under mild assumptions. Our empirical results highlight significant speed-ups and improved generalization in imaging tasks such as image denoising and deblurring in comparison with adaptive deterministic bilevel methods."

@@ -28,6 +28,7 @@ image:
 projects: []
 ---
 
+- (Mar-25) Our paper  [*Bilevel Learning with Inexact Stochastic Gradients*](https://arxiv.org/abs/2412.12049) with [Mohammad Sadegh Salehi](https://mohammadsadeghsalehi.github.io/), [Matthias Ehrhardt](https://mehrhardt.github.io/) (University of Bath) and [Subhadip Mukherjee](https://sites.google.com/view/subhadip-mukherjee/home) (IIT Kharagpur) has been accepted to [SSVM 2025](https://sites.google.com/view/ssvm-2025/home-page).
 - (Mar-25) Our paper [*High-resolution x-ray scanning with a diffuse, Huffman-patterned probe to minimise radiation damage*](https://arxiv.org/abs/2410.18348) with [Alaleh Aminzadeh](https://physics.anu.edu.au/contact/people/profile.php?ID=2927) and [Andrew Kingston](https://physics.anu.edu.au/contact/people/profile.php?ID=67) (ANU), and
 [David Paganin](https://www.monash.edu/science/schools/physics/research/research-areas?a=64532), [Tim Petersen](https://research.monash.edu/en/persons/timothy-petersen) and [Imants Svalbe](https://monash.academia.edu/ImantsSvalbe) (Monash University) has been accepted to the Journal of Synchotron Radiation (available soon).
 - (Feb-25) I am now an Associate Investigator for [OPTIMA](https://optima.org.au/), an ARC Industrial Transformation Training Centre focused on optimisation and operations research. 
