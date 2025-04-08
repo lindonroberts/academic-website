@@ -3,8 +3,8 @@
 
 title: "Model Construction for Convex-Constrained Derivative-Free Optimization"
 authors: [L. Roberts]
-date: 2024-03-25
-doi: ""
+date: 2025-04-02
+doi: "10.1137/24M1649113"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-03-25T12:47:31+11:00
@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "SIAM Journal on Optimization"
-publication_short: "SIAM J. Optim."
+publication_short: "SIAM J. Optim"
 
 abstract: "We develop a new approximation theory for linear and quadratic interpolation models, suitable for use in convex-constrained derivative-free optimization (DFO). Most existing model-based DFO methods for constrained problems assume the ability to construct sufficiently accurate approximations via interpolation, but the standard notions of accuracy (designed for unconstrained problems) may not be achievable by only sampling feasible points, and so may not give practical algorithms. This work extends the theory of convex-constrained linear interpolation developed in (Hough & Roberts, SIAM J. Optim, 32:4 (2022), pp. 2552–2579) to the case of linear regression models and underdetermined quadratic interpolation models"
 
