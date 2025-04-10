@@ -1,10 +1,10 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "High-resolution x-ray scanning with a diffuse, Huffman-patterned probe to minimise radiation damage"
+title: "High-resolution X-ray scanning with a diffuse Huffman-patterned probe to reduce radiation damage"
 authors: [A. Aminzadeh, A. M. Kingston, L. Roberts, D. M. Paganin, T. C. Petersen, I. D. Svalbe]
-date: 2025-03-06
-doi: ""
+date: 2025-04-09
+doi: "10.1107/S1600577525002127"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-10-25T14:34:48+11:00
