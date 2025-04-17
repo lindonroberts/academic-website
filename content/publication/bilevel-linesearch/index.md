@@ -3,7 +3,7 @@
 
 title: "An adaptively inexact first-order method for bilevel optimization with application to hyperparameter learning"
 authors: [M. S. Salehi, S. Mukherjee, L. Roberts, M. J. Ehrhardt]
-date: 2024-04-10
+date: 2025-04-17
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,10 +13,10 @@ publishDate: 2023-08-22T14:02:18+10:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
+publication: "SIAM J. Math. Data Science"
 publication_short: ""
 
 abstract: "Various tasks in data science are modeled utilizing the variational regularization approach, where manually selecting regularization parameters presents a challenge. The difficulty gets exacerbated when employing regularizers involving a large number of hyperparameters. To overcome this challenge, bilevel learning can be employed to learn such parameters from data. However, neither exact function values nor exact gradients with respect to the hyperparameters are attainable, necessitating methods that only rely on inexact evaluation of such quantities. State-of-the-art inexact gradient-based methods a priori select a sequence of the required accuracies and cannot identify an appropriate step size since the Lipschitz constant of the hypergradient is unknown. In this work, we propose an algorithm with backtracking line search that only relies on inexact function evaluations and hypergradients and show convergence to a stationary point. Furthermore, the proposed algorithm determines the required accuracy dynamically rather than manually selected before running it. Our numerical experiments demonstrate the efficiency and feasibility of our approach for hyperparameter estimation on a range of relevant problems in imaging and data science such as total variation and field of experts denoising and multinomial logistic regression. Particularly, the results show that the algorithm is robust to its own hyperparameters such as the initial accuracies and step size."
