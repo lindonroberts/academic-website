@@ -4,7 +4,7 @@
 title: "Bilevel Learning with Inexact Stochastic Gradients"
 authors: [M. S. Salehi, S. Mukherjee, L. Roberts, M. J. Ehrhardt]
 date: 2025-03-07
-doi: ""
+doi: "10.1007/978-3-031-92366-1_27"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2024-12-18T09:21:47+11:00
