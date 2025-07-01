@@ -10,21 +10,21 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer
+role: Senior Lecturer
 
 # Organizations/Affiliations
 organizations:
-- name: University of Sydney
+- name: University of Melbourne
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research is in numerical analysis and data science, particularly nonconvex and derivative-free optimization.
+bio: My research is in numerical optimization and data science, particularly nonconvex and derivative-free optimization.
 
 interests:
 - Derivative-Free Optimization
 - Nonconvex Optimization
-- Numerical Analysis
 - Data Science
+- Numerical Analysis
 
 education:
   courses:
@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:lindon.roberts@sydney.edu.au'  # Was '#contact'. For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:lindon.roberts@unimelb.edu.au'  # Was '#contact'. For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=s8Xj5BgAAAAJ
@@ -65,10 +65,8 @@ email: "lindon.roberts@sydney.edu.au"
 #- Visitors
 ---
 
-I am a lecturer and [ARC DECRA Fellow](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) at the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/), University of Sydney. My research interests are in numerical analysis and data science, particularly nonconvex and derivative-free optimization. 
+I am a senior lecturer and [ARC DECRA Fellow](https://www.arc.gov.au/funding-research/funding-schemes/discovery-program/discovery-early-career-researcher-award-decra) at the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/), University of Melbourne. My research interests are in numerical analysis and data science, particularly nonconvex and derivative-free optimization. 
 I am also an Associate Investigator for [OPTIMA](https://optima.org.au/).
-
-**In July 2025, I will be joining the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/) at the University of Melbourne as a Senior Lecturer in Data Science.**
 
 Details of my CV, publications, talks and software are below (or look at [Google Scholar](https://scholar.google.co.uk/citations?user=s8Xj5BgAAAAJ) and [Github](https://github.com/lindonroberts)). For general optimization resources, see below or my [nonlinear optimization resources](opt/) page.
 

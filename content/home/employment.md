@@ -47,7 +47,11 @@ subtitle = ""
  css_class = ""
 +++
 
-**[2022 -- present] Lecturer, University of Sydney**
+**[2025 -- present] Senior Lecturer, University of Melbourne**
+
+* Continuing faculty member in the [School of Mathematics and Statistics](https://ms.unimelb.edu.au/).
+
+**[2022 -- 2025] Lecturer, University of Sydney**
 
 * Continuing faculty member (equivalent of Assistant Professor in the US) in the [School of Mathematics and Statistics](https://www.maths.usyd.edu.au/).
 
